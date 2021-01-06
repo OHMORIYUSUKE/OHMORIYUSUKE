@@ -1,4 +1,4 @@
-# \:wave: hi!
+# \:wave: Hi!
 # \:chart_with_downwards_trend: Activity
 <img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/3-stats.svg" width="25%"><img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/0-profile-details.svg" width="75%">
 
