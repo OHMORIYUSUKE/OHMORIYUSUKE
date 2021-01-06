@@ -3,3 +3,6 @@
 <img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/1-repos-per-language.svg" width="50%"><img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/2-most-commit-language.svg" width="50%">
 
 <https://github.com/vn7n24fzkq/github-profile-summary-cards>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
