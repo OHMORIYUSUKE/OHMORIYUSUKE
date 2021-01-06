@@ -4,8 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/1-repos-per-language.svg" width="50%"><img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/2-most-commit-language.svg" width="50%">
 
-<https://github.com/vn7n24fzkq/github-profile-summary-cards>
-
 # \:green_book: Blog
 <!-- BLOG-POST-LIST:START -->
 - [今年の振り返りと来年への抱負](https://uu-tan.hatenablog.jp/entry/2020/12/28/225843)
@@ -14,4 +12,3 @@
 - [おすすめアニメ【笑えるアニメランキング】](https://uu-tan.hatenablog.jp/entry/2020/11/11/110015)
 - [おすすめアニメ【感動するアニメランキング】](https://uu-tan.hatenablog.jp/entry/2020/11/10/234657)
 <!-- BLOG-POST-LIST:END -->
-<https://github.com/gautamkrishnar/blog-post-workflow>
