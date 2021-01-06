@@ -11,4 +11,5 @@
 - [Pythonを触ってみた](https://uu-tan.hatenablog.jp/entry/2020/12/11/222753)
 - [おすすめアニメ【笑えるアニメランキング】](https://uu-tan.hatenablog.jp/entry/2020/11/11/110015)
 - [おすすめアニメ【感動するアニメランキング】](https://uu-tan.hatenablog.jp/entry/2020/11/10/234657)
+- [うーたんの自己紹介](https://uu-tan.hatenablog.jp/entry/2020/11/05/184728)
 <!-- BLOG-POST-LIST:END -->
