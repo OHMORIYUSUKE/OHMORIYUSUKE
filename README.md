@@ -4,7 +4,7 @@
 
 <https://github.com/vn7n24fzkq/github-profile-summary-cards>
 
-\:green_book: BLOG
+## \:green_book: BLOG
 <!-- BLOG-POST-LIST:START -->
 - [今年の振り返りと来年への抱負](https://uu-tan.hatenablog.jp/entry/2020/12/28/225843)
 - [簡単にPythonでアプリケーションを作ろう](https://uu-tan.hatenablog.jp/entry/2020/12/25/225630)
