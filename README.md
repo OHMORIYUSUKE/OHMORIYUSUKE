@@ -14,3 +14,4 @@
 - [おすすめアニメ【笑えるアニメランキング】](https://uu-tan.hatenablog.jp/entry/2020/11/11/110015)
 - [おすすめアニメ【感動するアニメランキング】](https://uu-tan.hatenablog.jp/entry/2020/11/10/234657)
 <!-- BLOG-POST-LIST:END -->
+<https://github.com/gautamkrishnar/blog-post-workflow>
