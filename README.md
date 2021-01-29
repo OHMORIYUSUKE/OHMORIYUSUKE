@@ -6,10 +6,8 @@
 
 # \:green_book: Blog
 <!-- BLOG-POST-LIST:START -->
-- [今年の振り返りと来年への抱負](https://uu-tan.hatenablog.jp/entry/2020/12/28/225843)
-- [簡単にPythonでアプリケーションを作ろう](https://uu-tan.hatenablog.jp/entry/2020/12/25/225630)
-- [Pythonを触ってみた](https://uu-tan.hatenablog.jp/entry/2020/12/11/222753)
-- [おすすめアニメ【笑えるアニメランキング】](https://uu-tan.hatenablog.jp/entry/2020/11/11/110015)
-- [おすすめアニメ【感動するアニメランキング】](https://uu-tan.hatenablog.jp/entry/2020/11/10/234657)
-- [うーたんの自己紹介](https://uu-tan.hatenablog.jp/entry/2020/11/05/184728)
+- [レスポンシブにしました | 2021/01/28](http://utan.php.xdomain.jp/blog/view.php?id=4)
+- [わたしの好きなアニメ | 2021/01/26](http://utan.php.xdomain.jp/blog/view.php?id=2)
+- [今年の振り返りと来年への抱負(2020年) | 2021/01/26](http://utan.php.xdomain.jp/blog/view.php?id=3)
+- [このブログサイトについて | 2021/01/25](http://utan.php.xdomain.jp/blog/view.php?id=1)
 <!-- BLOG-POST-LIST:END -->
