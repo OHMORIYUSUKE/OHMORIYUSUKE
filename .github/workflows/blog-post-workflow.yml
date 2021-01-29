@@ -15,4 +15,4 @@ jobs:
         with:
           feed_list: "https://node2.feed43.com/4081510646200330.xml"
           max_post_count: 8
-          description_max_length: 40
+          
