@@ -6,8 +6,8 @@
 
 # \:green_book: Blog
 <!-- BLOG-POST-LIST:START -->
-- [レスポンシブにしました | 2021/01/28](http://utan.php.xdomain.jp/blog/view.php?id=4)
-- [わたしの好きなアニメ | 2021/01/26](http://utan.php.xdomain.jp/blog/view.php?id=2)
-- [今年の振り返りと来年への抱負(2020年) | 2021/01/26](http://utan.php.xdomain.jp/blog/view.php?id=3)
-- [このブログサイトについて | 2021/01/25](http://utan.php.xdomain.jp/blog/view.php?id=1)
+- [レスポンシブにしました ( 2021/01/28 )](http://utan.php.xdomain.jp/blog/view.php?id=4)
+- [わたしの好きなアニメ ( 2021/01/26 )](http://utan.php.xdomain.jp/blog/view.php?id=2)
+- [今年の振り返りと来年への抱負(2020年) ( 2021/01/26 )](http://utan.php.xdomain.jp/blog/view.php?id=3)
+- [このブログサイトについて ( 2021/01/25 )](http://utan.php.xdomain.jp/blog/view.php?id=1)
 <!-- BLOG-POST-LIST:END -->
