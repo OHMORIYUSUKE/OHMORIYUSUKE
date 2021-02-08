@@ -6,6 +6,7 @@
 
 # \:green_book: Blog
 <!-- BLOG-POST-LIST:START -->
+- [閲覧回数を計測しています ( 2021/02/08 )](http://utan.php.xdomain.jp/blog/view.php?id=9)
 - [OGP画像を動的に生成しました ( 2021/02/03 )](http://utan.php.xdomain.jp/blog/view.php?id=8)
 - [検索機能を実装しました ( 2021/02/01 )](http://utan.php.xdomain.jp/blog/view.php?id=7)
 - [コメント機能を実装できませんでした。 ( 2021/01/31 )](http://utan.php.xdomain.jp/blog/view.php?id=6)
@@ -13,5 +14,4 @@
 - [RSS Feed配信を開始しました ( 2021/01/30 )](http://utan.php.xdomain.jp/blog/view.php?id=5)
 - [レスポンシブにしました ( 2021/01/28 )](http://utan.php.xdomain.jp/blog/view.php?id=4)
 - [わたしの好きなアニメ ( 2021/01/26 )](http://utan.php.xdomain.jp/blog/view.php?id=2)
-- [このブログサイトについて ( 2021/01/25 )](http://utan.php.xdomain.jp/blog/view.php?id=1)
 <!-- BLOG-POST-LIST:END -->
