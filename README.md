@@ -7,9 +7,14 @@
 # \:green_book: Blog <img src="https://github.com/OHMORIYUSUKE/Blog-PHP/blob/master/images/profile.jpg?raw=true" width="3%">
 ### [PHPで制作したブログサイトです](https://github.com/OHMORIYUSUKE/Blog-PHP)
 
-|OGP画像|最新記事|
-|---|---|
-|<img src="http://utan.php.xdomain.jp/blog/OGPout/index.jpg" width="30%">|<!-- BLOG-POST-LIST:START -->
+<table>
+<tbody>
+</tr>
+<tr>
+<td rowspan="2"><img src="http://utan.php.xdomain.jp/blog/OGPout/index.jpg">
+</td>
+<td>
+<!-- BLOG-POST-LIST:START -->
 - [コメント機能を実装しました ( 2021/02/14 )](http://utan.php.xdomain.jp/blog/view.php?id=13)
 - [7セグカウンターを実装しました ( 2021/02/09 )](http://utan.php.xdomain.jp/blog/view.php?id=11)
 - [アーカイブ機能を実装しました ( 2021/02/09 )](http://utan.php.xdomain.jp/blog/view.php?id=10)
@@ -18,4 +23,8 @@
 - [検索機能を実装しました ( 2021/02/01 )](http://utan.php.xdomain.jp/blog/view.php?id=7)
 - [コメント機能を実装できませんでした。 ( 2021/01/31 )](http://utan.php.xdomain.jp/blog/view.php?id=6)
 - [RSS Feed配信を開始しました ( 2021/01/30 )](http://utan.php.xdomain.jp/blog/view.php?id=5)
-<!-- BLOG-POST-LIST:END -->|
+<!-- BLOG-POST-LIST:END -->
+</td>
+</tr>
+</tbody>
+</table>
