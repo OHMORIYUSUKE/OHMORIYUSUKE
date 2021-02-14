@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/1-repos-per-language.svg" width="50%"><img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/2-most-commit-language.svg" width="50%">
 
-# \:green_book: Blog
+# \:green_book: Blog ![画像](https://github.com/OHMORIYUSUKE/Blog-PHP/blob/master/images/profile.jpg?raw=true)
 <!-- BLOG-POST-LIST:START -->
 - [コメント機能を実装しました ( 2021/02/14 )](http://utan.php.xdomain.jp/blog/view.php?id=13)
 - [7セグカウンターを実装しました ( 2021/02/09 )](http://utan.php.xdomain.jp/blog/view.php?id=11)
