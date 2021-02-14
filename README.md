@@ -9,7 +9,7 @@
 ### [PHPのソースコード](https://github.com/OHMORIYUSUKE/Blog-PHP)  
 
 OGP画像  
-<img src="http://utan.php.xdomain.jp/blog/OGPout/index.jpg" width="40%">
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">発表したブログサイトです。<a href="https://t.co/Ehnl998C20">https://t.co/Ehnl998C20</a></p>&mdash; うーたん (@uutan1108) <a href="https://twitter.com/uutan1108/status/1359481026804764675?ref_src=twsrc%5Etfw">February 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 最新記事  
 <!-- BLOG-POST-LIST:START -->
