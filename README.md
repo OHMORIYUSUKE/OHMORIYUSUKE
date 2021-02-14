@@ -8,8 +8,8 @@
 ### [PHPで制作したブログサイトです](http://utan.php.xdomain.jp/blog/)  
 ### [PHPのソースコード](https://github.com/OHMORIYUSUKE/Blog-PHP)  
 
-OGP画像  
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">発表したブログサイトです。<a href="https://t.co/Ehnl998C20">https://t.co/Ehnl998C20</a></p>&mdash; うーたん (@uutan1108) <a href="https://twitter.com/uutan1108/status/1359481026804764675?ref_src=twsrc%5Etfw">February 10, 2021</a></blockquote>  
+OGP画像(自動生成)  
+[こんな感じです](https://twitter.com/uutan1108/status/1359481026804764675?ref_src=twsrc%5Etfw)  
 
 最新記事  
 <!-- BLOG-POST-LIST:START -->
