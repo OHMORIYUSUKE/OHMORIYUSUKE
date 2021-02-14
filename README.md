@@ -6,6 +6,7 @@
 
 # \:green_book: Blog
 <!-- BLOG-POST-LIST:START -->
+- [コメント機能を実装しました ( 2021/02/14 )](http://utan.php.xdomain.jp/blog/view.php?id=13)
 - [7セグカウンターを実装しました ( 2021/02/09 )](http://utan.php.xdomain.jp/blog/view.php?id=11)
 - [アーカイブ機能を実装しました ( 2021/02/09 )](http://utan.php.xdomain.jp/blog/view.php?id=10)
 - [閲覧回数を計測しています ( 2021/02/08 )](http://utan.php.xdomain.jp/blog/view.php?id=9)
@@ -13,5 +14,4 @@
 - [検索機能を実装しました ( 2021/02/01 )](http://utan.php.xdomain.jp/blog/view.php?id=7)
 - [コメント機能を実装できませんでした。 ( 2021/01/31 )](http://utan.php.xdomain.jp/blog/view.php?id=6)
 - [RSS Feed配信を開始しました ( 2021/01/30 )](http://utan.php.xdomain.jp/blog/view.php?id=5)
-- [レスポンシブにしました ( 2021/01/28 )](http://utan.php.xdomain.jp/blog/view.php?id=4)
 <!-- BLOG-POST-LIST:END -->
