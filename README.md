@@ -9,7 +9,7 @@
 ### [PHPのソースコード](https://github.com/OHMORIYUSUKE/Blog-PHP)  
 
 OGP画像  
-<img src="http://utan.php.xdomain.jp/blog/OGPout/index.jpg" width="60%">
+<img src="http://utan.php.xdomain.jp/blog/OGPout/index.jpg" width="0%">
 
 最新記事  
 <!-- BLOG-POST-LIST:START -->
