@@ -1,6 +1,6 @@
 # Hello! \:wave: こんにちは
 # \:chart_with_downwards_trend: Activity
-<img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/3-stats.svg" width="35%"><img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/0-profile-details.svg" width="65%">
+<img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/3-stats.svg" width="32%"><img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/0-profile-details.svg" width="68%">
 
 <img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/1-repos-per-language.svg" width="50%"><img src="https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/vue/2-most-commit-language.svg" width="50%">
 
