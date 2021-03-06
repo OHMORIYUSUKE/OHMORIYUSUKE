@@ -13,12 +13,12 @@ OGP画像(自動生成)
 
 最新記事  
 <!-- BLOG-POST-LIST:START -->
-- [ダークモードを実装しました ( 2021/02/18 )](http://utan.php.xdomain.jp/blog/view.php?id=14)
-- [コメント機能を実装しました ( 2021/02/14 )](http://utan.php.xdomain.jp/blog/view.php?id=13)
-- [7セグカウンターを実装しました ( 2021/02/09 )](http://utan.php.xdomain.jp/blog/view.php?id=11)
-- [アーカイブ機能を実装しました ( 2021/02/09 )](http://utan.php.xdomain.jp/blog/view.php?id=10)
-- [閲覧回数を計測しています ( 2021/02/08 )](http://utan.php.xdomain.jp/blog/view.php?id=9)
-- [OGP画像を動的に生成しました ( 2021/02/03 )](http://utan.php.xdomain.jp/blog/view.php?id=8)
-- [検索機能を実装しました ( 2021/02/01 )](http://utan.php.xdomain.jp/blog/view.php?id=7)
-- [コメント機能を実装できませんでした。 ( 2021/01/31 )](http://utan.php.xdomain.jp/blog/view.php?id=6)
+- [ダークモードを実装しました](http://utan.php.xdomain.jp/blog/view.php?id=14)
+- [コメント機能を実装しました](http://utan.php.xdomain.jp/blog/view.php?id=13)
+- [7セグカウンターを実装しました](http://utan.php.xdomain.jp/blog/view.php?id=11)
+- [アーカイブ機能を実装しました](http://utan.php.xdomain.jp/blog/view.php?id=10)
+- [閲覧回数を計測しています](http://utan.php.xdomain.jp/blog/view.php?id=9)
+- [OGP画像を動的に生成しました](http://utan.php.xdomain.jp/blog/view.php?id=8)
+- [検索機能を実装しました](http://utan.php.xdomain.jp/blog/view.php?id=7)
+- [コメント機能を実装できませんでした。](http://utan.php.xdomain.jp/blog/view.php?id=6)
 <!-- BLOG-POST-LIST:END -->
