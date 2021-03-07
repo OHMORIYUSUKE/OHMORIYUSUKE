@@ -16,4 +16,4 @@ jobs:
           feed_list: "http://utan.php.xdomain.jp/blog/rss.xml"
           max_post_count: 8
           disable_sort: true
-          template: "[$title]($url) | $date"
+          template: ([$title]($url)|$date) 
