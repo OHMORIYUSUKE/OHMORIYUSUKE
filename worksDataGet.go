@@ -47,13 +47,13 @@ func main() {
     var Contents Root
     json.Unmarshal(body, &Contents)
 
-    fmt.Printf("%-v", Contents)
+    //fmt.Printf("%+v\n", Contents)
 
 	//---
 
-	// for i, data := range Contents {
-	// 	fmt.Printf("index: %d, name: %s\n", i, data)
-	// }
+	for i, data := range Contents.Value {
+		fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
+	}
 
 }
 
