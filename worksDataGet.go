@@ -6,6 +6,10 @@ import (
     "fmt"
     "io"
     "net/http"
+	"regexp"
+	"strings"
+	"log"
+	"io/ioutil"
 )
 
 func main() {
@@ -47,13 +51,49 @@ func main() {
     var Contents Root
     json.Unmarshal(body, &Contents)
 
-    //fmt.Printf("%+v\n", Contents)
+    fmt.Printf("%+v\n", Contents)
 
 	//---
 
 	for i, data := range Contents.Value {
 		fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
 	}
+
+	//-------------------------------------
+	joinedString := ""
+	for _, data := range Contents.Value {
+		//fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
+		joinedString = joinedString + "<a href=" + data.Url + ">" + "<img src=" + data.Image.Url + "></a><br />" + "### " + data.Title + "<br />"
+	}
+
+	//-------------------------------------
+	f, err := os.Open("README2.md")
+    if err != nil{
+        fmt.Println("error")
+    }
+    defer f.Close()
+
+    // 一気に全部読み取り
+    b, err := ioutil.ReadAll(f)
+    // 出力
+    //fmt.Println(string(b))
+  //-------------------------------------
+  str := []byte(string(b))
+  assigned := regexp.MustCompile("<!--works-Web-->\r\n\r\n(.*)\r\n\r\n<!--works-Web-->")
+  group := assigned.FindSubmatch(str)
+  fmt.Println(string(group[1]))
+
+  replacedMd := strings.Replace(string(b), string(group[1]), joinedString, 1)
+  //fmt.Println(replacedMd)
+
+  file, err := os.Create("README2.md")
+	if err != nil {
+		log.Fatal(err)  //ファイルが開けなかったときエラー出力
+	}
+	defer file.Close()
+
+	file.Write(([]byte)(replacedMd))
+	//-----------------------------------
 
 }
 
@@ -65,4 +105,13 @@ type Contents struct {
     Id  string  `json:"id"`
     CreatedAt  string `json:"createdAt"`
 	Title string `json:"title"`
+	Description string `json:"description"`
+	Url string `json:"url"`
+	Image Images `json:"image"`
+}
+
+type Images struct {
+	Url string `json:url`
+	Height int `json:height`
+	Width int  `json:width`
 }
