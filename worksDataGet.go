@@ -4,7 +4,6 @@ import (
 	"os"
     "encoding/json"
     "fmt"
-    "io"
     "net/http"
 	"regexp"
 	"strings"
@@ -45,7 +44,7 @@ func main() {
     }
 
     // Response Body を読み取り
-    body, _ := io.ReadAll(resp.Body)
+    body, _ := ioutil.ReadAll(resp.Body)
 
     // JSONを構造体にエンコード
     var Contents Root
