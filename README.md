@@ -15,14 +15,13 @@
 最新記事
 
 <!-- BLOG-POST-LIST:START -->
-
 - [サークルについて](http://utan.php.xdomain.jp/blog/view.php?id=16)
 - [ダークモードを実装しました](http://utan.php.xdomain.jp/blog/view.php?id=14)
 - [コメント機能を実装しました](http://utan.php.xdomain.jp/blog/view.php?id=13)
-- [7 セグカウンターを実装しました](http://utan.php.xdomain.jp/blog/view.php?id=11)
+- [7セグカウンターを実装しました](http://utan.php.xdomain.jp/blog/view.php?id=11)
 - [アーカイブ機能を実装しました](http://utan.php.xdomain.jp/blog/view.php?id=10)
 - [閲覧回数を計測しています](http://utan.php.xdomain.jp/blog/view.php?id=9)
-- [OGP 画像を動的に生成しました](http://utan.php.xdomain.jp/blog/view.php?id=8)
+- [OGP画像を動的に生成しました](http://utan.php.xdomain.jp/blog/view.php?id=8)
 - [検索機能を実装しました](http://utan.php.xdomain.jp/blog/view.php?id=7)
 <!-- BLOG-POST-LIST:END -->
 
