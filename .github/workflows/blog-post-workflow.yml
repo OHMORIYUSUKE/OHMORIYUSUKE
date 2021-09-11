@@ -1,8 +1,9 @@
 name: Latest blog post workflow
 on:
+  push:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,6 +14,10 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://utan.php.xdomain.jp/blog/rss.xml"
+          feed_list:
+            [
+              "http://utan.php.xdomain.jp/blog/rss.xml",
+              "https://zenn.dev/u_tan/feed",
+            ]
           max_post_count: 8
           disable_sort: true
