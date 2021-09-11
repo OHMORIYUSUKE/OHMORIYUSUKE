@@ -78,7 +78,7 @@ func main() {
     //fmt.Println(string(b))
   //-------------------------------------
   str := []byte(string(b))
-  assigned := regexp.MustCompile("<!--works-Web-->\r\n\r\n(.*)\r\n\r\n<!--works-Web-->")
+  assigned := regexp.MustCompile("<!--works-Web-->\n\n(.*)\n\n<!--works-Web-->")
   group := assigned.FindSubmatch(str)
   fmt.Println(string(group[1]))
 
