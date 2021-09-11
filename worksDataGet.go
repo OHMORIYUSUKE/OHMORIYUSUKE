@@ -66,7 +66,7 @@ func main() {
 	}
 
 	//-------------------------------------
-	f, err := os.Open("README2.md")
+	f, err := os.Open("README.md")
     if err != nil{
         fmt.Println("error")
     }
@@ -78,14 +78,14 @@ func main() {
     //fmt.Println(string(b))
   //-------------------------------------
   str := []byte(string(b))
-  assigned := regexp.MustCompile("<!--status-->\r\n\r\n(.*)\r\n\r\n<!--status-->")
+  assigned := regexp.MustCompile("<!--works-Web-->\r\n\r\n(.*)\r\n\r\n<!--works-Web-->")
   group := assigned.FindSubmatch(str)
   fmt.Println(string(group[1]))
 
   replacedMd := strings.Replace(string(b), string(group[1]), joinedString, 1)
   //fmt.Println(replacedMd)
 
-  file, err := os.Create("README2.md")
+  file, err := os.Create("README.md")
 	if err != nil {
 		log.Fatal(err)  //ファイルが開けなかったときエラー出力
 	}
