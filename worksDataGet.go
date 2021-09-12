@@ -9,6 +9,7 @@ import (
 	"strings"
 	"log"
 	"io/ioutil"
+    "time"
 )
 
 func main() {
@@ -53,6 +54,17 @@ func main() {
     fmt.Printf("%+v\n", Contents)
 
 	//---
+    now := time.Now()
+    fmt.Println(now.Format(time.RFC3339))
+
+    nowUTC := now.UTC() 
+    fmt.Println(nowUTC.Format(time.RFC3339))
+
+    jst := time.FixedZone("Asia/Tokyo", 9*60*60)
+
+    nowJST := nowUTC.In(jst)                        
+    fmt.Println(nowJST.Format(time.RFC3339))
+    //---
 
 	for i, data := range Contents.Value {
 		fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
@@ -70,7 +82,7 @@ func main() {
         joinedString = joinedString + "<tr><th><a href=" + data.Url + ">" + "<img src=" + data.Image.Url + "></a></th></tr>" + "<tr><td>" + data.Title + "</tr></td>"
 
 	}
-    joinedString = joinedString + "</table>"
+    joinedString = joinedString + "</table><br />" + nowJST.Format(time.RFC3339)
 
 	//-------------------------------------
 	f, err := os.Open("README.md")
