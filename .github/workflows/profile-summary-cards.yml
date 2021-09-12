@@ -1,7 +1,6 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  push:
   schedule:
     # Runs every hour
     - cron: "0 * * * *"

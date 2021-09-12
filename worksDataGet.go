@@ -59,11 +59,18 @@ func main() {
 	}
 
 	//-------------------------------------
-	joinedString := ""
-	for _, data := range Contents.Value {
+	joinedString := "<table>"
+	// for _, data := range Contents.Value {
+	// 	//fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
+	// 	joinedString = joinedString + "<a href=" + data.Url + ">" + "<img src=" + data.Image.Url + "></a><br />" + "### " + data.Title + "<br />"
+	// }
+    for _, data := range Contents.Value {
 		//fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
-		joinedString = joinedString + "<a href=" + data.Url + ">" + "<img src=" + data.Image.Url + "></a><br />" + "### " + data.Title + "<br />"
+
+        joinedString = joinedString + "<tr><th><a href=" + data.Url + ">" + "<img src=" + data.Image.Url + "></a></th></tr>" + "<tr><td>" + data.Title + "</tr></td>"
+
 	}
+    joinedString = joinedString + "</table>"
 
 	//-------------------------------------
 	f, err := os.Open("README.md")
@@ -77,6 +84,7 @@ func main() {
     // 出力
     //fmt.Println(string(b))
   //-------------------------------------
+  // TODO 改行コードを変える
   str := []byte(string(b))
   assigned := regexp.MustCompile("<!--works-Web-->\n\n(.*)\n\n<!--works-Web-->")
   group := assigned.FindSubmatch(str)
