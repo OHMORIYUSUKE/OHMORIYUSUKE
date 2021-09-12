@@ -79,7 +79,7 @@ func main() {
     for _, data := range Contents.Value {
 		//fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
 
-        joinedString = joinedString + "<tr><th><a href=" + data.Url + ">" + "<img src=" + data.Image.Url + "></a></th></tr>" + "<tr><td>" + data.Title + "</tr></td>"
+        joinedString = joinedString + "<tr><th><a href=" + data.Url + ">" + "<img src=" + data.Image.Url + "></a></th></tr>" + "<tr><td><b>" + data.Title + "</b></tr></td>"
 
 	}
     joinedString = joinedString + "</table><br />最終更新 : " + nowJST.Format(time.RFC3339)
