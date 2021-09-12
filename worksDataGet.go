@@ -82,7 +82,7 @@ func main() {
         joinedString = joinedString + "<tr><th><a href=" + data.Url + ">" + "<img src=" + data.Image.Url + "></a></th></tr>" + "<tr><td>" + data.Title + "</tr></td>"
 
 	}
-    joinedString = joinedString + "</table><br />" + nowJST.Format(time.RFC3339)
+    joinedString = joinedString + "</table><br />最終更新 : " + nowJST.Format(time.RFC3339)
 
 	//-------------------------------------
 	f, err := os.Open("README.md")
