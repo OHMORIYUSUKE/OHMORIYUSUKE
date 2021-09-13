@@ -81,7 +81,7 @@ func main() {
 		}
 	}
 	joinedString = joinedString + "</table>"
-	joinedString = joinedString + "<details><summary>もっと見る...</summary><table>"
+	joinedString = joinedString + "<details><summary><h3>もっと見る...</h3></summary><table>"
 	for i, data := range Contents.Value {
 		if i >= 2 {
 			titles = append(titles, data.Title)
