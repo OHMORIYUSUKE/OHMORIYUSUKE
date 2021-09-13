@@ -4,7 +4,7 @@
 
 <!--imats-birthday-->
 
-<ul><li>南条光</li></ul>
+<ul><li><h3>南条光</h3></li></ul>
 
 <!--imats-birthday-->
 
