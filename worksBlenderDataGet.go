@@ -9,7 +9,6 @@ import (
 	"strings"
 	"log"
 	"io/ioutil"
-    "time"
 )
 
 func main() {
@@ -52,18 +51,6 @@ func main() {
     json.Unmarshal(body, &Contents)
 
     //fmt.Printf("%+v\n", Contents)
-
-	//---
-    now := time.Now()
-    //fmt.Println(now.Format(time.RFC3339))
-
-    nowUTC := now.UTC() 
-    //fmt.Println(nowUTC.Format(time.RFC3339))
-
-    jst := time.FixedZone("Asia/Tokyo", 9*60*60)
-
-    nowJST := nowUTC.In(jst)                        
-    //fmt.Println(nowJST.Format("2006-01-02 15:04:05"))
     //---
 
 	for i, data := range Contents.Value {
