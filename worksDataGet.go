@@ -71,19 +71,28 @@ func main() {
 	}
 
 	//-------------------------------------
+	var titles[] string 
+    var images[] string 
+    var urls[] string 
+    //---
 	joinedString := "<table>"
 	// for _, data := range Contents.Value {
 	// 	//fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
 	// 	joinedString = joinedString + "<a href=" + data.Url + ">" + "<img src=" + data.Image.Url + "></a><br />" + "### " + data.Title + "<br />"
 	// }
-    for _, data := range Contents.Value {
+    for i, data := range Contents.Value {
 		//fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
-
-        joinedString = joinedString + "<tr><th><a href=" + data.Url + ">" + "<img src=" + data.Image.Url + "></a></th></tr>" + "<tr><td><b>" + data.Title + "</b></tr></td>"
-
+        titles = append(titles, data.Title)
+        images = append(images, data.Image.Url)
+        urls = append(urls, data.Url)
+        if i % 2 == 1 {
+            joinedString = joinedString + "<tr>"+"<th><a href=" + urls[0] + ">" + "<img src=" + images[0] + "></a></th>"+"<th><a href=" + urls[1] + ">" + "<img src=" + images[1] + "></a></th>"+"</tr>" + "<tr>"+"<td>" + titles[0] + "</td>"+"<td>" + titles[1] + "</td>"+"</tr>"
+            titles = nil
+            images = nil
+            urls = nil
+        }
 	}
-    joinedString = joinedString + "</table><br />最終更新 : " + nowJST.Format(time.RFC3339)
-
+    joinedString = joinedString + "</table><br />" + nowJST.Format("2006-01-02 15:04:05")
 	//-------------------------------------
 	f, err := os.Open("README.md")
     if err != nil{
