@@ -75,6 +75,8 @@ func main() {
     var images[] string 
     var urls[] string 
     //---
+    length := len(Contents.Value)
+
 	joinedString := "<table>"
 	// for _, data := range Contents.Value {
 	// 	//fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
@@ -90,6 +92,9 @@ func main() {
             titles = nil
             images = nil
             urls = nil
+        }
+        if length % 2 == 1 && length - 1 == i {
+            joinedString = joinedString + "<tr>"+"<th><a href=" + urls[0] + ">" + "<img src=" + images[0] + "></a></th>"+"<th></th>"+"</tr>" + "<tr>"+"<td>" + titles[0] + "</td>"+"<td></td>"+"</tr>"
         }
 	}
     joinedString = joinedString + "</table><br />" + nowJST.Format("2006-01-02 15:04:05")
