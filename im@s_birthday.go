@@ -59,7 +59,7 @@ func main() {
 	joinedString := "<ul>"
 	for i, data := range Contents.Value.Binding {
 		fmt.Printf("index: %d,Name: %s\n", i, data.Name.Value)
-		joinedString = joinedString + "<li><h3>" + data.Name.Value + "</h3></li>"
+		joinedString = joinedString + "<li><h2>" + data.Name.Value + "</h2></li>"
 	}
 	joinedString = joinedString + "</ul>"
 
