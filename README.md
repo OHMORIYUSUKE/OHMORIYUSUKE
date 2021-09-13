@@ -2,11 +2,11 @@
 
 # \:cake: 今日誕生日のアイドル
 
-<!--im@<ul><li>南条光</li></ul>-birthday-->
+<!--imats-birthday-->
 
 s
 
-<!--im@s-birthday-->
+<!--imats-birthday-->
 
 # \:chart_with_downwards_trend: Activity
 

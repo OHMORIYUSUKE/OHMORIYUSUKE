@@ -73,7 +73,7 @@ func main() {
 	b, err := ioutil.ReadAll(f)
 	
 	str := []byte(string(b))
-	assigned := regexp.MustCompile("<!--im@s-birthday-->\n\n(.*)\n\n<!--im@s-birthday-->")
+	assigned := regexp.MustCompile("<!--imats-birthday-->\n\n(.*)\n\n<!--imats-birthday-->")
 	group := assigned.FindSubmatch(str)
 
 	replacedMd := strings.Replace(string(b), string(group[1]), joinedString, 1)
