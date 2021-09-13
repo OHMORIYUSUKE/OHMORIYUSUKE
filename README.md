@@ -2,7 +2,7 @@
 
 # \:cake: 今日誕生日のアイドル
 
-<!--imats-birthday-->
+<!--imat<ul><li>南条光</li></ul>-birthday-->
 
 s
 
