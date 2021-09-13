@@ -1,6 +1,6 @@
 # Hello! \:wave: こんにちは
 
-# \:cake: 今日誕生日のアイドル
+# \:cake: Happy Birthday \:smile:
 
 <!--imats-birthday-->
 
@@ -17,7 +17,8 @@
 # \:green_book: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [ネットワーク(ダイナミックルーティングOSPF編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
+
+- [ネットワーク(ダイナミックルーティング OSPF 編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
 - [ネットワーク(スタティックルーティング編)](https://zenn.dev/u_tan/articles/0e1fc16e4c2e24)
 - [ネットワーク(基本設定編)](https://zenn.dev/u_tan/articles/c98293d8d864d4)
 <!-- BLOG-POST-LIST:END -->
