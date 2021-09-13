@@ -72,20 +72,41 @@ func main() {
 	// }
     for i, data := range Contents.Value {
 		//fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
-        titles = append(titles, data.Title)
-        images = append(images, data.Image.Url)
-        urls = append(urls, data.Url)
-        if i % 2 == 1 {
-            joinedString = joinedString + "<tr>"+"<th><a href=" + urls[0] + ">" + "<img src=" + images[0] + "></a></th>"+"<th><a href=" + urls[1] + ">" + "<img src=" + images[1] + "></a></th>"+"</tr>" + "<tr>"+"<td>" + titles[0] + "</td>"+"<td>" + titles[1] + "</td>"+"</tr>"
-            titles = nil
-            images = nil
-            urls = nil
+        if i < 2 { 
+            titles = append(titles, data.Title)
+            images = append(images, data.Image.Url)
+            urls = append(urls, data.Url)
+            if i % 2 == 1 {        
+                joinedString = joinedString + "<tr>"+"<th><a href=" + urls[0] + ">" + "<img src=" + images[0] + "></a></th>"+"<th><a href=" + urls[1] + ">" + "<img src=" + images[1] + "></a></th>"+"</tr>" + "<tr>"+"<td>" + titles[0] + "</td>"+"<td>" + titles[1] + "</td>"+"</tr>"
+                titles = nil
+                images = nil
+                urls = nil
+            }
+            if length % 2 == 1 && length - 1 == i {
+                joinedString = joinedString + "<tr>"+"<th><a href=" + urls[0] + ">" + "<img src=" + images[0] + "></a></th>"+"<th></th>"+"</tr>" + "<tr>"+"<td>" + titles[0] + "</td>"+"<td></td>"+"</tr>"
+            }
         }
-        if length % 2 == 1 && length - 1 == i {
-            joinedString = joinedString + "<tr>"+"<th><a href=" + urls[0] + ">" + "<img src=" + images[0] + "></a></th>"+"<th></th>"+"</tr>" + "<tr>"+"<td>" + titles[0] + "</td>"+"<td></td>"+"</tr>"
-        }
-	}
+    }
     joinedString = joinedString + "</table>"
+    joinedString = joinedString + "<details><summary>もっと見る...</summary><table>"
+    for i, data := range Contents.Value {
+		//fmt.Printf("index: %d,Id: %s, Title: %s,CreatedAt: %s\n", i,data.Id, data.Title, data.CreatedAt)
+        if i >= 2 { 
+            titles = append(titles, data.Title)
+            images = append(images, data.Image.Url)
+            urls = append(urls, data.Url)
+            if i % 2 == 1 {        
+                joinedString = joinedString + "<tr>"+"<th><a href=" + urls[0] + ">" + "<img src=" + images[0] + "></a></th>"+"<th><a href=" + urls[1] + ">" + "<img src=" + images[1] + "></a></th>"+"</tr>" + "<tr>"+"<td>" + titles[0] + "</td>"+"<td>" + titles[1] + "</td>"+"</tr>"
+                titles = nil
+                images = nil
+                urls = nil
+            }
+            if length % 2 == 1 && length - 1 == i {
+                joinedString = joinedString + "<tr>"+"<th><a href=" + urls[0] + ">" + "<img src=" + images[0] + "></a></th>"+"<th></th>"+"</tr>" + "<tr>"+"<td>" + titles[0] + "</td>"+"<td></td>"+"</tr>"
+            }
+        }
+    }
+    joinedString = joinedString + "</table></details>"
 	//-------------------------------------
 	f, err := os.Open("README.md")
     if err != nil{
