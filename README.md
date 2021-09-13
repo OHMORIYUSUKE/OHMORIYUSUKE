@@ -4,7 +4,7 @@
 
 <!--imats-birthday-->
 
-s
+名前
 
 <!--imats-birthday-->
 
