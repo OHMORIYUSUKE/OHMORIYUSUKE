@@ -14,6 +14,18 @@ import (
 )
 
 func main() {
+	now := time.Now()
+
+	nowUTC := now.UTC()
+
+	jst := time.FixedZone("Asia/Tokyo", 9*60*60)
+
+	nowJST := nowUTC.In(jst)
+
+	nowJST.Format("2006-01-02 15:04:05")
+
+	//---
+
 	t := time.Now()
 	month := int(t.Month())
 	day := t.Day()
@@ -61,7 +73,7 @@ func main() {
 		fmt.Printf("index: %d,Name: %s\n", i, data.Name.Value)
 		joinedString = joinedString + "<li><h2>" + data.Name.Value + "</h2></li>"
 	}
-	joinedString = joinedString + "</ul>"
+	joinedString = joinedString + "</ul><!--" + nowJST.Format("2006-01-02 15:04:05") + "-->"
 
 	f, err := os.Open("README.md")
 	if err != nil {
