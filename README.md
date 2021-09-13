@@ -1,5 +1,13 @@
 # Hello! \:wave: こんにちは
 
+# \:cake: 今日誕生日のアイドル
+
+<!--im@s-birthday-->
+
+s
+
+<!--im@s-birthday-->
+
 # \:chart_with_downwards_trend: Activity
 
 [![](https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -9,7 +17,8 @@
 # \:green_book: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [ネットワーク(ダイナミックルーティングOSPF編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
+
+- [ネットワーク(ダイナミックルーティング OSPF 編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
 - [ネットワーク(スタティックルーティング編)](https://zenn.dev/u_tan/articles/0e1fc16e4c2e24)
 - [ネットワーク(基本設定編)](https://zenn.dev/u_tan/articles/c98293d8d864d4)
 <!-- BLOG-POST-LIST:END -->
