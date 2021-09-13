@@ -26,9 +26,9 @@ func main() {
 
 	//---
 
-	t := time.Now()
-	month := int(t.Month())
-	day := t.Day()
+	//t := time.Now()
+	month := int(nowJST.Month())
+	day := nowJST.Day()
 
 	var dayStr string
 	dayStr = strconv.Itoa(day)
