@@ -21,7 +21,8 @@ jobs:
       # 実行
       - name: Run
         run: |
-          go run worksDataGet.go
+          go run worksBlenderDataGet.go
+          go run worksWebDataGet.go
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add README.md
