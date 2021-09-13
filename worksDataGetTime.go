@@ -6,6 +6,8 @@ import (
 	"log"
 	"regexp"
 	"strings"
+	"fmt"
+	"io/ioutil"
 )
 
 func main(){
