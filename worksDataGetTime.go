@@ -28,20 +28,17 @@ func main(){
     }
     defer f.Close()
 
-    // 一気に全部読み取り
     b, err := ioutil.ReadAll(f)
 
 	str := []byte(string(b))
 	assigned := regexp.MustCompile("<!--works-GetDtataTime-->\n\n(.*)\n\n<!--works-GetDtataTime-->")
 	group := assigned.FindSubmatch(str)
-	//fmt.Println(string(group[1])) 
 
 	replacedMd := strings.Replace(string(b), string(group[1]), "最終更新 : " + nowJST.Format("2006-01-02 15:04:05"), 1)
-	//fmt.Println(replacedMd)
 
 	file, err := os.Create("README.md")
 	if err != nil {
-		log.Fatal(err)  //ファイルが開けなかったときエラー出力
+		log.Fatal(err) 
 	}
 	defer file.Close()
 
