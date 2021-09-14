@@ -12,13 +12,9 @@ import (
 
 func main() {
 	now := time.Now()
-
 	nowUTC := now.UTC()
-
 	jst := time.FixedZone("Asia/Tokyo", 9*60*60)
-
 	nowJST := nowUTC.In(jst)
-
 	nowJST.Format("2006-01-02 15:04:05")
 
 	f, err := os.Open("README.md")
