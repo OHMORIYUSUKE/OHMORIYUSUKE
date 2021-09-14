@@ -4,7 +4,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>南条光</h2></li></ul><!--2021-09-14 01:09:13-->
+<ul><li><h2>円城寺道流</h2></li><li><h2>姫川友紀</h2></li><li><h2>最上静香</h2></li></ul><!--2021-09-14 10:54:49-->
 
 <!--imats-birthday-->
 
@@ -17,8 +17,7 @@
 # \:green_book: Blog
 
 <!-- BLOG-POST-LIST:START -->
-
-- [ネットワーク(ダイナミックルーティング OSPF 編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
+- [ネットワーク(ダイナミックルーティングOSPF編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
 - [ネットワーク(スタティックルーティング編)](https://zenn.dev/u_tan/articles/0e1fc16e4c2e24)
 - [ネットワーク(基本設定編)](https://zenn.dev/u_tan/articles/c98293d8d864d4)
 <!-- BLOG-POST-LIST:END -->
@@ -43,6 +42,6 @@
 
 <!--works-GetDtataTime-->
 
-最終更新 : 2021-09-14 01:09:45
+最終更新 : 2021-09-14 10:53:59
 
 <!--works-GetDtataTime-->
