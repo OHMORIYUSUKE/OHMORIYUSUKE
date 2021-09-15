@@ -1,0 +1,11 @@
+on:
+  push:
+
+jobs:
+  build:
+    # Ubuntuの最新版環境内で処理を実行することを指定
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run sh
+        run: sh test.sh
