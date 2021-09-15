@@ -14,5 +14,4 @@ jobs:
           sudo apt list --upgradable
           sudo apt install snapd
           sudo snap install blender --classic
-
-#sudo blender --background -noaudio test.blend --threads 0 --render-output //anim --render-anim
+          sudo blender --background -noaudio test.blend --threads 0 -E CYCLES --render-output //anim --render-anim
