@@ -12,4 +12,4 @@ jobs:
           sh test.sh
           sudo apt -y update
           sudo apt -y install blender blender-data
-          blender --background -noaudio test.blend --threads 0 --render-output //anim –render-frame
+          blender --background -noaudio test.blend --threads 0 --render-output / –render-frame
