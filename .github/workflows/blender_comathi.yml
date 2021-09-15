@@ -1,0 +1,23 @@
+on:
+  push:
+
+jobs:
+  build:
+    # Ubuntuの最新版環境内で処理を実行することを指定
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run sh
+        run: |
+          sh test.sh
+          sudo apt -y update
+          sudo apt list --upgradable
+          sudo apt install snapd
+          sudo snap install blender --classic
+          sudo blender --background -noaudio blend/test.blend --threads 0 -E CYCLES --render-output //anim --render-frame 1523
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Generate PNG"
+          git pull 
+          git push
