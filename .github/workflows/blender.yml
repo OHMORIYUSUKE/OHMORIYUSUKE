@@ -8,4 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run sh
-        run: sh test.sh
+        run: |
+          sh test.sh
+          sudo apt -y update
+          sudo apt -y install blender blender-data
