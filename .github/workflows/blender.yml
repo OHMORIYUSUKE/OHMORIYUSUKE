@@ -11,5 +11,6 @@ jobs:
         run: |
           sh test.sh
           sudo apt -y update
-          sudo apt -y install blender blender-data
+          sudo apt install snapd
+          snap install blender
           blender --background -noaudio test.blend --threads 0 --render-output / –render-frame
