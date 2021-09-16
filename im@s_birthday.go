@@ -73,6 +73,10 @@ func main() {
 		fmt.Printf("index: %d,Name: %s\n", i, data.Name.Value)
 		joinedString = joinedString + "<li><h2>" + data.Name.Value + "</h2></li>"
 	}
+
+	if month == 9 && day == 16 {
+		joinedString = joinedString + "<li><h2>" + "大森裕介" + "</h2></li>"
+	}
 	joinedString = joinedString + "</ul><!--" + nowJST.Format("2006-01-02 15:04:05") + "-->"
 
 	f, err := os.Open("README.md")
