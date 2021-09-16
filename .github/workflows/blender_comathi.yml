@@ -9,12 +9,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run sh
         run: |
-          sh test.sh
-          sudo apt -y update
-          sudo apt list --upgradable
-          sudo apt install snapd
-          sudo snap install blender --classic
-          sudo blender --background -noaudio blend/Miraikomachi.blend --threads 0 -E CYCLES --render-output //anim --render-frame 1523
+          sh blend.sh
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
