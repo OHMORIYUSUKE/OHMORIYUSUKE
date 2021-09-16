@@ -74,7 +74,7 @@ func main() {
 		joinedString = joinedString + "<li><h2>" + data.Name.Value + "</h2></li>"
 	}
 
-	if month == 9 && day == 16 {
+	if month == 11 && day == 8 {
 		joinedString = joinedString + "<li><h2>" + "大森裕介" + "</h2></li>"
 	}
 	joinedString = joinedString + "</ul><!--" + nowJST.Format("2006-01-02 15:04:05") + "-->"
