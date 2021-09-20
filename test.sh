@@ -1,1 +1,0 @@
-echo "ShellScript Hello World"
