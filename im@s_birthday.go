@@ -74,6 +74,10 @@ func main() {
 		joinedString = joinedString + "<li><h2>" + data.Name.Value + "</h2></li>"
 	}
 
+	if len(Contents.Value.Binding) == 0 {
+		joinedString = joinedString + "<li><h2>" + nowJST.Format("01月02日") +"誕生日の人おめでとう!" + "</h2></li>"
+	}
+
 	if month == 11 && day == 8 {
 		joinedString = joinedString + "<li><h2>" + "大森裕介" + "</h2></li>"
 	}
