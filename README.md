@@ -8,6 +8,12 @@
 
 <!--imats-birthday-->
 
+# 今の画像
+
+![画像](./img/anim0000.png)
+
+ランダムに立方体を配置しているだけです。
+
 # \:chart_with_downwards_trend: Activity
 
 [![](https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -17,8 +23,9 @@
 # \:green_book: Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHubActionsでBlenderをレンダリング](https://zenn.dev/u_tan/articles/7a6cad307fa481)
-- [ネットワーク(ダイナミックルーティングOSPF編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
+
+- [GitHubActions で Blender をレンダリング](https://zenn.dev/u_tan/articles/7a6cad307fa481)
+- [ネットワーク(ダイナミックルーティング OSPF 編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
 - [ネットワーク(スタティックルーティング編)](https://zenn.dev/u_tan/articles/0e1fc16e4c2e24)
 - [ネットワーク(基本設定編)](https://zenn.dev/u_tan/articles/c98293d8d864d4)
 <!-- BLOG-POST-LIST:END -->
