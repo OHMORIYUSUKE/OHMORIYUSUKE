@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Blender Install & render
+      - name: Blender Install & Render
         run: |
           sh blender.sh
       - name: Add & Commit
