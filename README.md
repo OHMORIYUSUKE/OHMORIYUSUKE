@@ -8,7 +8,7 @@
 
 <!--imats-birthday-->
 
-# 今の画像
+# \:rainbow: 今の画像
 
 ![画像](./img/anim0000.png)
 
