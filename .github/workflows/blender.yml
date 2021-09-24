@@ -1,7 +1,6 @@
 name: blender-rendering
 
 on:
-  push:
   schedule:
     - cron: "0 */3 * * *"
 
