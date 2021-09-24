@@ -1,0 +1,21 @@
+name: blender-rendering
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Blender Install & render
+        run: |
+          sh blend.sh
+      - name: Add & Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add img
+          git commit -m "Generate PNG"
+          git pull 
+          git push
