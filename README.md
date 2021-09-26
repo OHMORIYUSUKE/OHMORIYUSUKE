@@ -1,5 +1,7 @@
 # Hello! \:wave: こんにちは
 
+![](https://count.getloli.com/get/@OHMORIYUSUKE)
+
 # \:cake: Happy Birthday \:smile:
 
 <!--imats-birthday-->
