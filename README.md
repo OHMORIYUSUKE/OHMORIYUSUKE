@@ -1,6 +1,6 @@
 # Hello! \:wave: こんにちは
 
-![](https://count.getloli.com/get/@OHMORIYUSUKE)
+![](https://count.getloli.com/get/@OHMORIYUSUKE?theme=rule34)
 
 # \:cake: Happy Birthday \:smile:
 
