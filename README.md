@@ -1,5 +1,7 @@
 # Hello! \:wave: こんにちは
 
+![](https://count.getloli.com/get/@u-tan?theme=rule34)
+
 # \:cake: Happy Birthday \:smile:
 
 <!--imats-birthday-->
