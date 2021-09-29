@@ -1,10 +1,12 @@
 # Hello! \:wave: こんにちは
 
+![](https://count.getloli.com/get/@u-tan?theme=rule34)
+
 # \:cake: Happy Birthday \:smile:
 
 <!--imats-birthday-->
 
-<ul><li><h2>09月25日誕生日の人おめでとう!</h2></li></ul><!--2021-09-25 00:11:27-->
+<ul><li><h2>楊菲菲</h2></li></ul><!--2021-09-29 12:12:04-->
 
 <!--imats-birthday-->
 
@@ -23,9 +25,8 @@
 # \:green_book: Blog
 
 <!-- BLOG-POST-LIST:START -->
-
-- [GitHubActions で Blender をレンダリング](https://zenn.dev/u_tan/articles/7a6cad307fa481)
-- [ネットワーク(ダイナミックルーティング OSPF 編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
+- [GitHubActionsでBlenderをレンダリング](https://zenn.dev/u_tan/articles/7a6cad307fa481)
+- [ネットワーク(ダイナミックルーティングOSPF編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
 - [ネットワーク(スタティックルーティング編)](https://zenn.dev/u_tan/articles/0e1fc16e4c2e24)
 - [ネットワーク(基本設定編)](https://zenn.dev/u_tan/articles/c98293d8d864d4)
 <!-- BLOG-POST-LIST:END -->
@@ -50,6 +51,6 @@
 
 <!--works-GetDtataTime-->
 
-最終更新 : 2021-09-25 00:20:53
+最終更新 : 2021-09-29 12:20:52
 
 <!--works-GetDtataTime-->
