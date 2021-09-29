@@ -71,7 +71,7 @@ func main() {
 	joinedString := "<ul>"
 	for i, data := range Contents.Value.Binding {
 		fmt.Printf("index: %d,Name: %s\n", i, data.Name.Value)
-		joinedString = joinedString + "<li><h2>" + data.Name.Value + "</h2></li>"
+		joinedString = joinedString + "<li><h2><a href="+ "https://www.google.com/search?q=" + data.Name.Value + "&tbm=isch&oq=" + data.Name.Value + "&sclient=img" +">" + data.Name.Value + "</a></h2></li>"
 	}
 
 	if len(Contents.Value.Binding) == 0 {
