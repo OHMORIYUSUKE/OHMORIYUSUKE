@@ -1,5 +1,7 @@
 # Hello! \:wave: こんにちは
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 ![](https://count.getloli.com/get/@u-tan?theme=rule34)
 
 # \:cake: Happy Birthday \:smile:
