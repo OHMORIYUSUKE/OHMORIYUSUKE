@@ -25,6 +25,7 @@
 # \:green_book: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHubActionsでBlenderをレンダリング](https://zenn.dev/u_tan/articles/blender-rendering-hatena)
 - [GitHubActionsでBlenderをレンダリング](https://zenn.dev/u_tan/articles/7a6cad307fa481)
 - [ネットワーク(ダイナミックルーティングOSPF編)](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
 - [ネットワーク(スタティックルーティング編)](https://zenn.dev/u_tan/articles/0e1fc16e4c2e24)
