@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=古論クリス&tbm=isch&oq=古論クリス&sclient=img>古論クリス</a></h2></li><li><h2><a href=https://www.google.com/search?q=服部瞳子&tbm=isch&oq=服部瞳子&sclient=img>服部瞳子</a></h2></li></ul><!--2021-10-11 06:09:22-->
+<ul><li><h2><a href=https://www.google.com/search?q=古論クリス&tbm=isch&oq=古論クリス&sclient=img>古論クリス</a></h2></li><li><h2><a href=https://www.google.com/search?q=服部瞳子&tbm=isch&oq=服部瞳子&sclient=img>服部瞳子</a></h2></li></ul><!--2021-10-11 09:41:02-->
 
 <!--imats-birthday-->
 
