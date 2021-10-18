@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=小早川紗枝&tbm=isch&oq=小早川紗枝&sclient=img>小早川紗枝</a></h2></li><li><h2><a href=https://www.google.com/search?q=水本ゆかり&tbm=isch&oq=水本ゆかり&sclient=img>水本ゆかり</a></h2></li></ul><!--2021-10-18 21:17:51-->
+<ul><li><h2><a href=https://www.google.com/search?q=杜野凛世&tbm=isch&oq=杜野凛世&sclient=img>杜野凛世</a></h2></li></ul><!--2021-10-19 00:11:53-->
 
 <!--imats-birthday-->
 
