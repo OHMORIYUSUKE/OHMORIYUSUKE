@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=杜野凛世&tbm=isch&oq=杜野凛世&sclient=img>杜野凛世</a></h2></li></ul><!--2021-10-19 18:11:33-->
+<ul><li><h2><a href=https://www.google.com/search?q=杜野凛世&tbm=isch&oq=杜野凛世&sclient=img>杜野凛世</a></h2></li></ul><!--2021-10-19 21:18:29-->
 
 <!--imats-birthday-->
 
