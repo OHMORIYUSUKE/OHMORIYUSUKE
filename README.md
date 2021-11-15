@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=二階堂千鶴&tbm=isch&oq=二階堂千鶴&sclient=img>二階堂千鶴</a></h2></li></ul><!--2021-10-21 15:13:43-->
+<ul><li><h2>11月15日誕生日の人おめでとう!</h2></li></ul><!--2021-11-15 15:14:12-->
 
 <!--imats-birthday-->
 
