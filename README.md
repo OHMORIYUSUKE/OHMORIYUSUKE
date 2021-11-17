@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=小松伊吹&tbm=isch&oq=小松伊吹&sclient=img>小松伊吹</a></h2></li></ul><!--2021-11-17 18:11:48-->
+<ul><li><h2><a href=https://www.google.com/search?q=小松伊吹&tbm=isch&oq=小松伊吹&sclient=img>小松伊吹</a></h2></li></ul><!--2021-11-17 21:18:21-->
 
 <!--imats-birthday-->
 
