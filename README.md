@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>11月18日誕生日の人おめでとう!</h2></li></ul><!--2021-11-18 21:19:21-->
+<ul><li><h2><a href=https://www.google.com/search?q=的場梨沙&tbm=isch&oq=的場梨沙&sclient=img>的場梨沙</a></h2></li></ul><!--2021-11-19 00:12:24-->
 
 <!--imats-birthday-->
 
