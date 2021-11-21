@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=秋山隼人&tbm=isch&oq=秋山隼人&sclient=img>秋山隼人</a></h2></li><li><h2><a href=https://www.google.com/search?q=篠原礼&tbm=isch&oq=篠原礼&sclient=img>篠原礼</a></h2></li></ul><!--2021-11-22 03:12:57-->
+<ul><li><h2><a href=https://www.google.com/search?q=秋山隼人&tbm=isch&oq=秋山隼人&sclient=img>秋山隼人</a></h2></li><li><h2><a href=https://www.google.com/search?q=篠原礼&tbm=isch&oq=篠原礼&sclient=img>篠原礼</a></h2></li></ul><!--2021-11-22 06:09:32-->
 
 <!--imats-birthday-->
 
