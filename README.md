@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=百瀬莉緒&tbm=isch&oq=百瀬莉緒&sclient=img>百瀬莉緒</a></h2></li></ul><!--2021-11-21 21:17:37-->
+<ul><li><h2><a href=https://www.google.com/search?q=秋山隼人&tbm=isch&oq=秋山隼人&sclient=img>秋山隼人</a></h2></li><li><h2><a href=https://www.google.com/search?q=篠原礼&tbm=isch&oq=篠原礼&sclient=img>篠原礼</a></h2></li></ul><!--2021-11-22 00:11:38-->
 
 <!--imats-birthday-->
 
