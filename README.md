@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=川島瑞樹&tbm=isch&oq=川島瑞樹&sclient=img>川島瑞樹</a></h2></li><li><h2><a href=https://www.google.com/search?q=輿水幸子&tbm=isch&oq=輿水幸子&sclient=img>輿水幸子</a></h2></li></ul><!--2021-11-25 15:14:20-->
+<ul><li><h2><a href=https://www.google.com/search?q=川島瑞樹&tbm=isch&oq=川島瑞樹&sclient=img>川島瑞樹</a></h2></li><li><h2><a href=https://www.google.com/search?q=輿水幸子&tbm=isch&oq=輿水幸子&sclient=img>輿水幸子</a></h2></li></ul><!--2021-11-25 18:12:26-->
 
 <!--imats-birthday-->
 
