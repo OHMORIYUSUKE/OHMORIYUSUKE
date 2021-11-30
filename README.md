@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>11月30日誕生日の人おめでとう!</h2></li></ul><!--2021-11-30 21:15:29-->
+<ul><li><h2><a href=https://www.google.com/search?q=サイネリア&tbm=isch&oq=サイネリア&sclient=img>サイネリア</a></h2></li><li><h2><a href=https://www.google.com/search?q=マスタートレーナー&tbm=isch&oq=マスタートレーナー&sclient=img>マスタートレーナー</a></h2></li><li><h2><a href=https://www.google.com/search?q=中谷育&tbm=isch&oq=中谷育&sclient=img>中谷育</a></h2></li><li><h2><a href=https://www.google.com/search?q=卯月巻緒&tbm=isch&oq=卯月巻緒&sclient=img>卯月巻緒</a></h2></li><li><h2><a href=https://www.google.com/search?q=塩見周子&tbm=isch&oq=塩見周子&sclient=img>塩見周子</a></h2></li><li><h2><a href=https://www.google.com/search?q=大和亜季&tbm=isch&oq=大和亜季&sclient=img>大和亜季</a></h2></li><li><h2><a href=https://www.google.com/search?q=小日向美穂&tbm=isch&oq=小日向美穂&sclient=img>小日向美穂</a></h2></li><li><h2><a href=https://www.google.com/search?q=横山千佳&tbm=isch&oq=横山千佳&sclient=img>横山千佳</a></h2></li></ul><!--2021-12-01 00:12:30-->
 
 <!--imats-birthday-->
 
