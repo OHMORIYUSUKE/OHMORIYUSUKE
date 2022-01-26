@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>12月13日誕生日の人おめでとう!</h2></li></ul><!--2021-12-13 09:41:30-->
+<ul><li><h2><a href=https://www.google.com/search?q=真壁瑞希&tbm=isch&oq=真壁瑞希&sclient=img>真壁瑞希</a></h2></li></ul><!--2022-01-27 00:12:15-->
 
 <!--imats-birthday-->
 
