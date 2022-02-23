@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=天道輝&tbm=isch&oq=天道輝&sclient=img>天道輝</a></h2></li></ul><!--2022-02-23 12:12:53-->
+<ul><li><h2><a href=https://www.google.com/search?q=天道輝&tbm=isch&oq=天道輝&sclient=img>天道輝</a></h2></li></ul><!--2022-02-23 15:14:56-->
 
 <!--imats-birthday-->
 
