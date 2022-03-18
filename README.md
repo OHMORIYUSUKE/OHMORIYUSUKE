@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=七尾百合子&tbm=isch&oq=七尾百合子&sclient=img>七尾百合子</a></h2></li><li><h2><a href=https://www.google.com/search?q=衛藤美紗希&tbm=isch&oq=衛藤美紗希&sclient=img>衛藤美紗希</a></h2></li></ul><!--2022-03-18 21:20:50-->
+<ul><li><h2><a href=https://www.google.com/search?q=長富蓮実&tbm=isch&oq=長富蓮実&sclient=img>長富蓮実</a></h2></li></ul><!--2022-03-19 00:12:54-->
 
 <!--imats-birthday-->
 
