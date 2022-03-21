@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=松尾千鶴&tbm=isch&oq=松尾千鶴&sclient=img>松尾千鶴</a></h2></li></ul><!--2022-03-21 18:12:50-->
+<ul><li><h2><a href=https://www.google.com/search?q=松尾千鶴&tbm=isch&oq=松尾千鶴&sclient=img>松尾千鶴</a></h2></li></ul><!--2022-03-21 21:21:11-->
 
 <!--imats-birthday-->
 
