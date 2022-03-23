@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=中野有香&tbm=isch&oq=中野有香&sclient=img>中野有香</a></h2></li></ul><!--2022-03-23 18:12:30-->
+<ul><li><h2><a href=https://www.google.com/search?q=中野有香&tbm=isch&oq=中野有香&sclient=img>中野有香</a></h2></li></ul><!--2022-03-23 21:22:41-->
 
 <!--imats-birthday-->
 
