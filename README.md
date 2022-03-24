@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>03月24日誕生日の人おめでとう!</h2></li></ul><!--2022-03-24 21:22:16-->
+<ul><li><h2><a href=https://www.google.com/search?q=岡村直央&tbm=isch&oq=岡村直央&sclient=img>岡村直央</a></h2></li><li><h2><a href=https://www.google.com/search?q=高峯のあ&tbm=isch&oq=高峯のあ&sclient=img>高峯のあ</a></h2></li><li><h2><a href=https://www.google.com/search?q=高槻やよい&tbm=isch&oq=高槻やよい&sclient=img>高槻やよい</a></h2></li></ul><!--2022-03-25 00:13:34-->
 
 <!--imats-birthday-->
 
