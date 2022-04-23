@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>04月23日誕生日の人おめでとう!</h2></li></ul><!--2022-04-23 21:21:46-->
+<ul><li><h2><a href=https://www.google.com/search?q=宮尾美也&tbm=isch&oq=宮尾美也&sclient=img>宮尾美也</a></h2></li><li><h2><a href=https://www.google.com/search?q=島村卯月&tbm=isch&oq=島村卯月&sclient=img>島村卯月</a></h2></li></ul><!--2022-04-24 00:13:43-->
 
 <!--imats-birthday-->
 
