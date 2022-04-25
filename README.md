@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=櫻木真乃&tbm=isch&oq=櫻木真乃&sclient=img>櫻木真乃</a></h2></li></ul><!--2022-04-25 21:24:01-->
+<ul><li><h2>04月26日誕生日の人おめでとう!</h2></li></ul><!--2022-04-26 00:15:22-->
 
 <!--imats-birthday-->
 
