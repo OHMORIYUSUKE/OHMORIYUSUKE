@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>05月16日誕生日の人おめでとう!</h2></li></ul><!--2022-05-16 21:28:12-->
+<ul><li><h2><a href=https://www.google.com/search?q=北上麗花&tbm=isch&oq=北上麗花&sclient=img>北上麗花</a></h2></li></ul><!--2022-05-17 00:15:45-->
 
 <!--imats-birthday-->
 
