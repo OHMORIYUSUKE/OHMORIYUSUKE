@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=田中摩美々&tbm=isch&oq=田中摩美々&sclient=img>田中摩美々</a></h2></li></ul><!--2022-05-24 21:27:29-->
+<ul><li><h2><a href=https://www.google.com/search?q=浜川愛結奈&tbm=isch&oq=浜川愛結奈&sclient=img>浜川愛結奈</a></h2></li></ul><!--2022-05-25 00:24:30-->
 
 <!--imats-birthday-->
 
