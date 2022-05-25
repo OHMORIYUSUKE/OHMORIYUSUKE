@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=浜川愛結奈&tbm=isch&oq=浜川愛結奈&sclient=img>浜川愛結奈</a></h2></li></ul><!--2022-05-25 21:27:50-->
+<ul><li><h2>05月26日誕生日の人おめでとう!</h2></li></ul><!--2022-05-26 00:15:51-->
 
 <!--imats-birthday-->
 
