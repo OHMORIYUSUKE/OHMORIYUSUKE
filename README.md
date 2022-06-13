@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>06月13日誕生日の人おめでとう!</h2></li></ul><!--2022-06-13 21:26:29-->
+<ul><li><h2><a href=https://www.google.com/search?q=高垣楓&tbm=isch&oq=高垣楓&sclient=img>高垣楓</a></h2></li></ul><!--2022-06-14 00:18:05-->
 
 <!--imats-birthday-->
 
