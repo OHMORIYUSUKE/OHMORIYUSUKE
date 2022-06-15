@@ -26,13 +26,13 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [ブラウザ上でコードを書いて実行&lpar;2&rpar;](https://zenn.dev/u_tan/articles/775af6ee0e9e77)
-- [就活振り返り](https://zenn.dev/u_tan/articles/bd72f3719329ab)
 - [今年の振り返り](https://zenn.dev/u_tan/articles/8d6dcac659a564)
 - [ブラウザ上でコードを書いて実行](https://zenn.dev/u_tan/articles/f351dc7e84e6f3)
 - [ハッカソンに参加しました。](https://zenn.dev/u_tan/articles/8268bb2793d9e9)
 - [GitHubActionsでBlenderをレンダリング](https://zenn.dev/u_tan/articles/7a6cad307fa481)
 - [ネットワーク&lpar;ダイナミックルーティングOSPF編&rpar;](https://zenn.dev/u_tan/articles/fe5a5bc8b0e5a5)
 - [ネットワーク&lpar;スタティックルーティング編&rpar;](https://zenn.dev/u_tan/articles/0e1fc16e4c2e24)
+- [ネットワーク&lpar;基本設定編&rpar;](https://zenn.dev/u_tan/articles/c98293d8d864d4)
 <!-- BLOG-POST-LIST:END -->
 
 # \:open_file_folder: 制作物
