@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=秋月律子&tbm=isch&oq=秋月律子&sclient=img>秋月律子</a></h2></li></ul><!--2022-06-23 12:53:18-->
+<ul><li><h2><a href=https://www.google.com/search?q=秋月律子&tbm=isch&oq=秋月律子&sclient=img>秋月律子</a></h2></li></ul><!--2022-06-23 15:16:19-->
 
 <!--imats-birthday-->
 
