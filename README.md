@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=仙崎恵磨&tbm=isch&oq=仙崎恵磨&sclient=img>仙崎恵磨</a></h2></li><li><h2><a href=https://www.google.com/search?q=白瀬咲耶&tbm=isch&oq=白瀬咲耶&sclient=img>白瀬咲耶</a></h2></li></ul><!--2022-06-27 21:28:24-->
+<ul><li><h2><a href=https://www.google.com/search?q=春日未来&tbm=isch&oq=春日未来&sclient=img>春日未来</a></h2></li></ul><!--2022-06-28 00:15:27-->
 
 <!--imats-birthday-->
 
