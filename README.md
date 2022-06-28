@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=春日未来&tbm=isch&oq=春日未来&sclient=img>春日未来</a></h2></li></ul><!--2022-06-28 21:26:55-->
+<ul><li><h2><a href=https://www.google.com/search?q=ナターリア&tbm=isch&oq=ナターリア&sclient=img>ナターリア</a></h2></li><li><h2><a href=https://www.google.com/search?q=青羽美咲&tbm=isch&oq=青羽美咲&sclient=img>青羽美咲</a></h2></li></ul><!--2022-06-29 00:14:13-->
 
 <!--imats-birthday-->
 
