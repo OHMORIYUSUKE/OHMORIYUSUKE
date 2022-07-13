@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=氏家むつみ&tbm=isch&oq=氏家むつみ&sclient=img>氏家むつみ</a></h2></li></ul><!--2022-07-13 10:09:03-->
+<ul><li><h2><a href=https://www.google.com/search?q=氏家むつみ&tbm=isch&oq=氏家むつみ&sclient=img>氏家むつみ</a></h2></li></ul><!--2022-07-13 12:56:57-->
 
 <!--imats-birthday-->
 
