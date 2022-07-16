@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=岡崎泰葉&tbm=isch&oq=岡崎泰葉&sclient=img>岡崎泰葉</a></h2></li></ul><!--2022-07-16 18:12:36-->
+<ul><li><h2><a href=https://www.google.com/search?q=岡崎泰葉&tbm=isch&oq=岡崎泰葉&sclient=img>岡崎泰葉</a></h2></li></ul><!--2022-07-16 21:21:18-->
 
 <!--imats-birthday-->
 
