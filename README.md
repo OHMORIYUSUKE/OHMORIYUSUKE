@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=結城晴&tbm=isch&oq=結城晴&sclient=img>結城晴</a></h2></li></ul><!--2022-07-17 18:12:37-->
+<ul><li><h2><a href=https://www.google.com/search?q=結城晴&tbm=isch&oq=結城晴&sclient=img>結城晴</a></h2></li></ul><!--2022-07-17 21:22:52-->
 
 <!--imats-birthday-->
 
