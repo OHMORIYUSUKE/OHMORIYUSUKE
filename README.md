@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=杉坂海&tbm=isch&oq=杉坂海&sclient=img>杉坂海</a></h2></li><li><h2><a href=https://www.google.com/search?q=龍崎薫&tbm=isch&oq=龍崎薫&sclient=img>龍崎薫</a></h2></li></ul><!--2022-07-20 06:12:29-->
+<ul><li><h2><a href=https://www.google.com/search?q=杉坂海&tbm=isch&oq=杉坂海&sclient=img>杉坂海</a></h2></li><li><h2><a href=https://www.google.com/search?q=龍崎薫&tbm=isch&oq=龍崎薫&sclient=img>龍崎薫</a></h2></li></ul><!--2022-07-20 10:11:11-->
 
 <!--imats-birthday-->
 
