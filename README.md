@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>07月28日誕生日の人おめでとう!</h2></li></ul><!--2022-07-28 21:30:14-->
+<ul><li><h2><a href=https://www.google.com/search?q=小宮果穂&tbm=isch&oq=小宮果穂&sclient=img>小宮果穂</a></h2></li></ul><!--2022-07-29 00:13:53-->
 
 <!--imats-birthday-->
 
