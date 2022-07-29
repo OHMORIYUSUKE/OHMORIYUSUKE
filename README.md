@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=伊吹翼&tbm=isch&oq=伊吹翼&sclient=img>伊吹翼</a></h2></li><li><h2><a href=https://www.google.com/search?q=城ヶ崎莉嘉&tbm=isch&oq=城ヶ崎莉嘉&sclient=img>城ヶ崎莉嘉</a></h2></li></ul><!--2022-07-30 00:16:43-->
+<ul><li><h2><a href=https://www.google.com/search?q=伊吹翼&tbm=isch&oq=伊吹翼&sclient=img>伊吹翼</a></h2></li><li><h2><a href=https://www.google.com/search?q=城ヶ崎莉嘉&tbm=isch&oq=城ヶ崎莉嘉&sclient=img>城ヶ崎莉嘉</a></h2></li></ul><!--2022-07-30 03:17:08-->
 
 <!--imats-birthday-->
 
