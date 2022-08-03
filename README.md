@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=若林智香&tbm=isch&oq=若林智香&sclient=img>若林智香</a></h2></li></ul><!--2022-08-03 18:12:41-->
+<ul><li><h2><a href=https://www.google.com/search?q=若林智香&tbm=isch&oq=若林智香&sclient=img>若林智香</a></h2></li></ul><!--2022-08-03 21:28:04-->
 
 <!--imats-birthday-->
 
