@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>08月14日誕生日の人おめでとう!</h2></li></ul><!--2022-08-14 21:23:23-->
+<ul><li><h2><a href=https://www.google.com/search?q=ケイト&tbm=isch&oq=ケイト&sclient=img>ケイト</a></h2></li></ul><!--2022-08-15 00:13:22-->
 
 <!--imats-birthday-->
 
