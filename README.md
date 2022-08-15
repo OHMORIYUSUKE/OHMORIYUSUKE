@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=ケイト&tbm=isch&oq=ケイト&sclient=img>ケイト</a></h2></li></ul><!--2022-08-15 18:13:41-->
+<ul><li><h2><a href=https://www.google.com/search?q=ケイト&tbm=isch&oq=ケイト&sclient=img>ケイト</a></h2></li></ul><!--2022-08-15 21:28:10-->
 
 <!--imats-birthday-->
 
