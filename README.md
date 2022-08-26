@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=クラリス&tbm=isch&oq=クラリス&sclient=img>クラリス</a></h2></li></ul><!--2022-08-26 10:19:37-->
+<ul><li><h2><a href=https://www.google.com/search?q=クラリス&tbm=isch&oq=クラリス&sclient=img>クラリス</a></h2></li></ul><!--2022-08-26 13:42:02-->
 
 <!--imats-birthday-->
 
