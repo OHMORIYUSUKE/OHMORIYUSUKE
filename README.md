@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=若林智香&tbm=isch&oq=若林智香&sclient=img>若林智香</a></h2></li></ul><!--2022-08-30 21:29:43-->
+<ul><li><h2>08月31日誕生日の人おめでとう!</h2></li></ul><!--2022-08-31 00:14:21-->
 
 <!--imats-birthday-->
 
