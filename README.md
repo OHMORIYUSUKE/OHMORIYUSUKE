@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=ベテラントレーナー&tbm=isch&oq=ベテラントレーナー&sclient=img>ベテラントレーナー</a></h2></li></ul><!--2022-09-10 13:36:29-->
+<ul><li><h2><a href=https://www.google.com/search?q=ベテラントレーナー&tbm=isch&oq=ベテラントレーナー&sclient=img>ベテラントレーナー</a></h2></li></ul><!--2022-09-10 15:21:51-->
 
 <!--imats-birthday-->
 
