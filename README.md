@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=南条光&tbm=isch&oq=南条光&sclient=img>南条光</a></h2></li></ul><!--2022-09-13 13:45:30-->
+<ul><li><h2><a href=https://www.google.com/search?q=南条光&tbm=isch&oq=南条光&sclient=img>南条光</a></h2></li></ul><!--2022-09-13 15:52:22-->
 
 <!--imats-birthday-->
 
