@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=月宮雅&tbm=isch&oq=月宮雅&sclient=img>月宮雅</a></h2></li><li><h2><a href=https://www.google.com/search?q=葛之葉雨彦&tbm=isch&oq=葛之葉雨彦&sclient=img>葛之葉雨彦</a></h2></li></ul><!--2022-10-03 21:34:26-->
+<ul><li><h2>10月04日誕生日の人おめでとう!</h2></li></ul><!--2022-10-04 00:19:13-->
 
 <!--imats-birthday-->
 
