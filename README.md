@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=我那覇響&tbm=isch&oq=我那覇響&sclient=img>我那覇響</a></h2></li><li><h2><a href=https://www.google.com/search?q=椎名法子&tbm=isch&oq=椎名法子&sclient=img>椎名法子</a></h2></li></ul><!--2022-10-10 13:41:47-->
+<ul><li><h2><a href=https://www.google.com/search?q=我那覇響&tbm=isch&oq=我那覇響&sclient=img>我那覇響</a></h2></li><li><h2><a href=https://www.google.com/search?q=椎名法子&tbm=isch&oq=椎名法子&sclient=img>椎名法子</a></h2></li></ul><!--2022-10-10 15:42:51-->
 
 <!--imats-birthday-->
 
