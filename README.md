@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=二階堂千鶴&tbm=isch&oq=二階堂千鶴&sclient=img>二階堂千鶴</a></h2></li></ul><!--2022-10-21 06:15:21-->
+<ul><li><h2><a href=https://www.google.com/search?q=二階堂千鶴&tbm=isch&oq=二階堂千鶴&sclient=img>二階堂千鶴</a></h2></li></ul><!--2022-10-21 10:19:49-->
 
 <!--imats-birthday-->
 
