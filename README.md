@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=月宮雅&tbm=isch&oq=月宮雅&sclient=img>月宮雅</a></h2></li></ul><!--2022-10-30 13:05:02-->
+<ul><li><h2><a href=https://www.google.com/search?q=月宮雅&tbm=isch&oq=月宮雅&sclient=img>月宮雅</a></h2></li></ul><!--2022-10-30 15:17:39-->
 
 <!--imats-birthday-->
 
