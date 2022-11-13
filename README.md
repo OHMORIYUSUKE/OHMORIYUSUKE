@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=岸部彩華&tbm=isch&oq=岸部彩華&sclient=img>岸部彩華</a></h2></li></ul><!--2022-11-13 18:13:16-->
+<ul><li><h2><a href=https://www.google.com/search?q=岸部彩華&tbm=isch&oq=岸部彩華&sclient=img>岸部彩華</a></h2></li></ul><!--2022-11-13 21:26:05-->
 
 <!--imats-birthday-->
 
