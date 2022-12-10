@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=マスタートレーナー&tbm=isch&oq=マスタートレーナー&sclient=img>マスタートレーナー</a></h2></li></ul><!--2022-12-10 21:20:31-->
+<ul><li><h2>12月11日誕生日の人おめでとう!</h2></li></ul><!--2022-12-11 00:10:59-->
 
 <!--imats-birthday-->
 
