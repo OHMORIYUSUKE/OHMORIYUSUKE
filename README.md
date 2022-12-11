@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=卯月巻緒&tbm=isch&oq=卯月巻緒&sclient=img>卯月巻緒</a></h2></li><li><h2><a href=https://www.google.com/search?q=塩見周子&tbm=isch&oq=塩見周子&sclient=img>塩見周子</a></h2></li></ul><!--2022-12-12 03:13:59-->
+<ul><li><h2><a href=https://www.google.com/search?q=卯月巻緒&tbm=isch&oq=卯月巻緒&sclient=img>卯月巻緒</a></h2></li><li><h2><a href=https://www.google.com/search?q=塩見周子&tbm=isch&oq=塩見周子&sclient=img>塩見周子</a></h2></li></ul><!--2022-12-12 06:09:50-->
 
 <!--imats-birthday-->
 
