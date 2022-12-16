@@ -25,6 +25,7 @@
 # \:green_book: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript でGoogle Apps Script&lpar;GAS&rpar;を書く](https://zenn.dev/u_tan/articles/c813e6f8255296)
 - [PythonでCLIツールを作ってみた](https://zenn.dev/u_tan/articles/dca8c4539b4e13)
 - [5dayガチャ開発インターンに参加しました](https://zenn.dev/u_tan/articles/8c04a33586f7e6)
 - [DockerでPerlの環境を作成する](https://zenn.dev/u_tan/articles/a270b1321a6ea2)
@@ -32,7 +33,6 @@
 - [就活振り返り](https://zenn.dev/u_tan/articles/bd72f3719329ab)
 - [今年の振り返り](https://zenn.dev/u_tan/articles/8d6dcac659a564)
 - [ブラウザ上でコードを書いて実行](https://zenn.dev/u_tan/articles/f351dc7e84e6f3)
-- [ハッカソンに参加しました。](https://zenn.dev/u_tan/articles/8268bb2793d9e9)
 <!-- BLOG-POST-LIST:END -->
 
 # \:open_file_folder: 制作物
