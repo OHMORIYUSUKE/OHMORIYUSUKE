@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>12月17日誕生日の人おめでとう!</h2></li></ul><!--2022-12-17 21:18:59-->
+<ul><li><h2><a href=https://www.google.com/search?q=横山千佳&tbm=isch&oq=横山千佳&sclient=img>横山千佳</a></h2></li></ul><!--2022-12-18 00:10:12-->
 
 <!--imats-birthday-->
 
