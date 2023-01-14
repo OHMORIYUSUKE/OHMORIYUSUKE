@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=原田美世&tbm=isch&oq=原田美世&sclient=img>原田美世</a></h2></li></ul><!--2023-01-14 12:12:17-->
+<ul><li><h2><a href=https://www.google.com/search?q=原田美世&tbm=isch&oq=原田美世&sclient=img>原田美世</a></h2></li></ul><!--2023-01-14 15:13:43-->
 
 <!--imats-birthday-->
 
