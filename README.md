@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>01月15日誕生日の人おめでとう!</h2></li></ul><!--2023-01-15 21:19:41-->
+<ul><li><h2><a href=https://www.google.com/search?q=三峰結華&tbm=isch&oq=三峰結華&sclient=img>三峰結華</a></h2></li></ul><!--2023-01-16 00:10:48-->
 
 <!--imats-birthday-->
 
