@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=秋山隼人&tbm=isch&oq=秋山隼人&sclient=img>秋山隼人</a></h2></li><li><h2><a href=https://www.google.com/search?q=篠原礼&tbm=isch&oq=篠原礼&sclient=img>篠原礼</a></h2></li></ul><!--2023-01-22 21:20:01-->
+<ul><li><h2><a href=https://www.google.com/search?q=星井美希&tbm=isch&oq=星井美希&sclient=img>星井美希</a></h2></li><li><h2><a href=https://www.google.com/search?q=西園寺琴歌&tbm=isch&oq=西園寺琴歌&sclient=img>西園寺琴歌</a></h2></li></ul><!--2023-01-23 00:10:47-->
 
 <!--imats-birthday-->
 
