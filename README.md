@@ -16,6 +16,11 @@
 
 ランダムに立方体を配置しているだけです。
 
+# \:chart_with_downwards_trend: Lapras Activity
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 # \:chart_with_downwards_trend: Activity
 
 [![](https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
