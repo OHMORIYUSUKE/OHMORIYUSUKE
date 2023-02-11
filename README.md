@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=浅野風香&tbm=isch&oq=浅野風香&sclient=img>浅野風香</a></h2></li></ul><!--2023-02-11 18:11:01-->
+<ul><li><h2><a href=https://www.google.com/search?q=浅野風香&tbm=isch&oq=浅野風香&sclient=img>浅野風香</a></h2></li></ul><!--2023-02-11 21:20:21-->
 
 <!--imats-birthday-->
 
