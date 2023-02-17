@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=北川真尋&tbm=isch&oq=北川真尋&sclient=img>北川真尋</a></h2></li></ul><!--2023-02-17 10:05:08-->
+<ul><li><h2><a href=https://www.google.com/search?q=北川真尋&tbm=isch&oq=北川真尋&sclient=img>北川真尋</a></h2></li></ul><!--2023-02-17 12:18:00-->
 
 <!--imats-birthday-->
 
