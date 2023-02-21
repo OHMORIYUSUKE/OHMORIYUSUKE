@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=大河タケル&tbm=isch&oq=大河タケル&sclient=img>大河タケル</a></h2></li></ul><!--2023-02-21 21:23:06-->
+<ul><li><h2><a href=https://www.google.com/search?q=前川みく&tbm=isch&oq=前川みく&sclient=img>前川みく</a></h2></li></ul><!--2023-02-22 00:12:36-->
 
 <!--imats-birthday-->
 
