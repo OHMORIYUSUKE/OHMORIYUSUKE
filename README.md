@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=黒川千秋&tbm=isch&oq=黒川千秋&sclient=img>黒川千秋</a></h2></li></ul><!--2023-02-26 12:23:29-->
+<ul><li><h2><a href=https://www.google.com/search?q=黒川千秋&tbm=isch&oq=黒川千秋&sclient=img>黒川千秋</a></h2></li></ul><!--2023-02-26 15:14:58-->
 
 <!--imats-birthday-->
 
