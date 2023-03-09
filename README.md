@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>03月09日誕生日の人おめでとう!</h2></li></ul><!--2023-03-09 21:25:05-->
+<ul><li><h2><a href=https://www.google.com/search?q=ルーキートレーナー&tbm=isch&oq=ルーキートレーナー&sclient=img>ルーキートレーナー</a></h2></li></ul><!--2023-03-10 03:15:05-->
 
 <!--imats-birthday-->
 
