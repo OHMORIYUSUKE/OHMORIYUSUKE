@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=ルーキートレーナー&tbm=isch&oq=ルーキートレーナー&sclient=img>ルーキートレーナー</a></h2></li></ul><!--2023-03-10 18:12:37-->
+<ul><li><h2><a href=https://www.google.com/search?q=ルーキートレーナー&tbm=isch&oq=ルーキートレーナー&sclient=img>ルーキートレーナー</a></h2></li></ul><!--2023-03-10 21:23:47-->
 
 <!--imats-birthday-->
 
