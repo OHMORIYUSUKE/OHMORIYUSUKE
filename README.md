@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=ジュニー&tbm=isch&oq=ジュニー&sclient=img>ジュニー</a></h2></li></ul><!--2023-03-12 10:04:07-->
+<ul><li><h2><a href=https://www.google.com/search?q=ジュニー&tbm=isch&oq=ジュニー&sclient=img>ジュニー</a></h2></li></ul><!--2023-03-12 15:13:58-->
 
 <!--imats-birthday-->
 
