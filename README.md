@@ -21,8 +21,8 @@
 # \:chart_with_downwards_trend: Lapras Activity
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/KJDZ8ZH" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=3.43&i=3.47&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 3/12/2023, 1:37:40 AM
+<a href="https://lapras.com/public/KJDZ8ZH" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.57&b=3.43&i=3.47&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 3/13/2023, 1:24:41 AM
 <!--END_SECTION:lapras-card-->
 
 # \:chart_with_downwards_trend: Activity
