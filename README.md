@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=長富蓮実&tbm=isch&oq=長富蓮実&sclient=img>長富蓮実</a></h2></li></ul><!--2023-03-19 06:09:57-->
+<ul><li><h2><a href=https://www.google.com/search?q=長富蓮実&tbm=isch&oq=長富蓮実&sclient=img>長富蓮実</a></h2></li></ul><!--2023-03-19 10:05:55-->
 
 <!--imats-birthday-->
 
