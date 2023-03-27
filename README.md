@@ -34,6 +34,7 @@ Last Updated on 3/27/2023, 1:18:25 AM
 # \:green_book: Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [YAPC::Kyotoに参加しました](https://zenn.dev/u_tan/articles/c05fd67a6d8ea3)
 - [2022を振り返る](https://zenn.dev/u_tan/articles/a7ecd9767cc251)
 - [TypeScript でGoogle Apps Script&lpar;GAS&rpar;を書く](https://zenn.dev/u_tan/articles/c813e6f8255296)
 - [PythonでCLIツールを作ってみた](https://zenn.dev/u_tan/articles/dca8c4539b4e13)
@@ -41,7 +42,6 @@ Last Updated on 3/27/2023, 1:18:25 AM
 - [DockerでPerlの環境を作成する](https://zenn.dev/u_tan/articles/a270b1321a6ea2)
 - [ブラウザ上でコードを書いて実行&lpar;2&rpar;](https://zenn.dev/u_tan/articles/775af6ee0e9e77)
 - [就活振り返り](https://zenn.dev/u_tan/articles/bd72f3719329ab)
-- [今年の振り返り](https://zenn.dev/u_tan/articles/8d6dcac659a564)
 <!-- BLOG-POST-LIST:END -->
 
 # \:open_file_folder: 制作物
