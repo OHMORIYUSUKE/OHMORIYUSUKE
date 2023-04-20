@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=御手洗翔太&tbm=isch&oq=御手洗翔太&sclient=img>御手洗翔太</a></h2></li></ul><!--2023-04-20 15:14:12-->
+<ul><li><h2><a href=https://www.google.com/search?q=御手洗翔太&tbm=isch&oq=御手洗翔太&sclient=img>御手洗翔太</a></h2></li></ul><!--2023-04-20 18:10:54-->
 
 <!--imats-birthday-->
 
