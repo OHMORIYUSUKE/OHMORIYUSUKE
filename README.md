@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=大神環&tbm=isch&oq=大神環&sclient=img>大神環</a></h2></li></ul><!--2023-04-29 21:18:21-->
+<ul><li><h2>04月30日誕生日の人おめでとう!</h2></li></ul><!--2023-04-30 00:09:50-->
 
 <!--imats-birthday-->
 
