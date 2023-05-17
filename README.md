@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=北上麗花&tbm=isch&oq=北上麗花&sclient=img>北上麗花</a></h2></li></ul><!--2023-05-17 21:21:03-->
+<ul><li><h2><a href=https://www.google.com/search?q=古澤頼子&tbm=isch&oq=古澤頼子&sclient=img>古澤頼子</a></h2></li></ul><!--2023-05-18 00:10:57-->
 
 <!--imats-birthday-->
 
