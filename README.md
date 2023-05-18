@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=古澤頼子&tbm=isch&oq=古澤頼子&sclient=img>古澤頼子</a></h2></li></ul><!--2023-05-18 21:20:27-->
+<ul><li><h2>05月19日誕生日の人おめでとう!</h2></li></ul><!--2023-05-19 00:10:45-->
 
 <!--imats-birthday-->
 
