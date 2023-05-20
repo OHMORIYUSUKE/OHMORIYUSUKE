@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=兜大吾&tbm=isch&oq=兜大吾&sclient=img>兜大吾</a></h2></li></ul><!--2023-05-20 21:18:37-->
+<ul><li><h2><a href=https://www.google.com/search?q=ライラ&tbm=isch&oq=ライラ&sclient=img>ライラ</a></h2></li></ul><!--2023-05-21 00:09:35-->
 
 <!--imats-birthday-->
 
