@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=ライラ&tbm=isch&oq=ライラ&sclient=img>ライラ</a></h2></li></ul><!--2023-05-21 18:09:26-->
+<ul><li><h2><a href=https://www.google.com/search?q=ライラ&tbm=isch&oq=ライラ&sclient=img>ライラ</a></h2></li></ul><!--2023-05-21 21:18:27-->
 
 <!--imats-birthday-->
 
