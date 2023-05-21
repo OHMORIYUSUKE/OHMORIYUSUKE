@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=ライラ&tbm=isch&oq=ライラ&sclient=img>ライラ</a></h2></li></ul><!--2023-05-21 21:18:27-->
+<ul><li><h2><a href=https://www.google.com/search?q=双海亜美&tbm=isch&oq=双海亜美&sclient=img>双海亜美</a></h2></li><li><h2><a href=https://www.google.com/search?q=双海真美&tbm=isch&oq=双海真美&sclient=img>双海真美</a></h2></li></ul><!--2023-05-22 00:09:36-->
 
 <!--imats-birthday-->
 
