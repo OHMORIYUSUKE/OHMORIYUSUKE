@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=緒方智絵里&tbm=isch&oq=緒方智絵里&sclient=img>緒方智絵里</a></h2></li></ul><!--2023-06-11 18:09:33-->
+<ul><li><h2><a href=https://www.google.com/search?q=緒方智絵里&tbm=isch&oq=緒方智絵里&sclient=img>緒方智絵里</a></h2></li></ul><!--2023-06-11 21:19:15-->
 
 <!--imats-birthday-->
 
