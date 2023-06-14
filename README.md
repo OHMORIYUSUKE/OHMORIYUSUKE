@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=藤原肇&tbm=isch&oq=藤原肇&sclient=img>藤原肇</a></h2></li></ul><!--2023-06-15 03:13:03-->
+<ul><li><h2><a href=https://www.google.com/search?q=藤原肇&tbm=isch&oq=藤原肇&sclient=img>藤原肇</a></h2></li></ul><!--2023-06-15 06:09:23-->
 
 <!--imats-birthday-->
 
