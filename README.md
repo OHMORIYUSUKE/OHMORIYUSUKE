@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=高垣楓&tbm=isch&oq=高垣楓&sclient=img>高垣楓</a></h2></li></ul><!--2023-06-14 18:10:19-->
+<ul><li><h2><a href=https://www.google.com/search?q=高垣楓&tbm=isch&oq=高垣楓&sclient=img>高垣楓</a></h2></li></ul><!--2023-06-14 21:21:26-->
 
 <!--imats-birthday-->
 
