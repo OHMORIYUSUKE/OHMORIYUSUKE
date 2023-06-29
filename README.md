@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=秋月律子&tbm=isch&oq=秋月律子&sclient=img>秋月律子</a></h2></li></ul><!--2023-06-23 21:23:27-->
+<ul><li><h2><a href=https://www.google.com/search?q=多田李衣菜&tbm=isch&oq=多田李衣菜&sclient=img>多田李衣菜</a></h2></li><li><h2><a href=https://www.google.com/search?q=花園百々人&tbm=isch&oq=花園百々人&sclient=img>花園百々人</a></h2></li></ul><!--2023-06-30 00:11:38-->
 
 <!--imats-birthday-->
 
