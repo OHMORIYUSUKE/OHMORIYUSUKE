@@ -21,8 +21,8 @@
 # \:chart_with_downwards_trend: Lapras Activity
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/KJDZ8ZH" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.73&b=3.48&i=3.53&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 7/7/2023, 1:45:49 AM
+<p ><a href="https://lapras.com/public/KJDZ8ZH" target="_blank" rel="noopener noreferrer"><img alt="KJDZ8ZHのLAPRASでのスコアは次の通りです: エンジニアリング: 3.73 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.53 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.73&b=3.48&i=3.53&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 7/8/2023, 1:44:42 AM</p>
 <!--END_SECTION:lapras-card-->
 
 # \:chart_with_downwards_trend: Activity
