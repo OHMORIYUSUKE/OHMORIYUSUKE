@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=氏家むつみ&tbm=isch&oq=氏家むつみ&sclient=img>氏家むつみ</a></h2></li></ul><!--2023-07-13 21:25:42-->
+<ul><li><h2>07月14日誕生日の人おめでとう!</h2></li></ul><!--2023-07-14 00:12:02-->
 
 <!--imats-birthday-->
 
