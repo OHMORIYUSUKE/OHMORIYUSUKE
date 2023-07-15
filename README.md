@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>07月15日誕生日の人おめでとう!</h2></li></ul><!--2023-07-15 21:21:08-->
+<ul><li><h2><a href=https://www.google.com/search?q=岡崎泰葉&tbm=isch&oq=岡崎泰葉&sclient=img>岡崎泰葉</a></h2></li></ul><!--2023-07-16 00:10:39-->
 
 <!--imats-birthday-->
 
