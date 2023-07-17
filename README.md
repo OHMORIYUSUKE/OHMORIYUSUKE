@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=結城晴&tbm=isch&oq=結城晴&sclient=img>結城晴</a></h2></li></ul><!--2023-07-17 21:26:03-->
+<ul><li><h2>07月18日誕生日の人おめでとう!</h2></li></ul><!--2023-07-18 00:12:29-->
 
 <!--imats-birthday-->
 
