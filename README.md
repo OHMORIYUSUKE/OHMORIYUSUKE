@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>07月24日誕生日の人おめでとう!</h2></li></ul><!--2023-07-24 21:21:38-->
+<ul><li><h2><a href=https://www.google.com/search?q=高森藍子&tbm=isch&oq=高森藍子&sclient=img>高森藍子</a></h2></li></ul><!--2023-07-25 00:11:21-->
 
 <!--imats-birthday-->
 
