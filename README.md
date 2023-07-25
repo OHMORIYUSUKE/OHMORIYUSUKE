@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=高森藍子&tbm=isch&oq=高森藍子&sclient=img>高森藍子</a></h2></li></ul><!--2023-07-25 06:10:10-->
+<ul><li><h2><a href=https://www.google.com/search?q=高森藍子&tbm=isch&oq=高森藍子&sclient=img>高森藍子</a></h2></li></ul><!--2023-07-25 10:05:11-->
 
 <!--imats-birthday-->
 
