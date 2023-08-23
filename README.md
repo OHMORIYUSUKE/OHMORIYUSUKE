@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>08月23日誕生日の人おめでとう!</h2></li></ul><!--2023-08-23 21:19:24-->
+<ul><li><h2><a href=https://www.google.com/search?q=持田亜里沙&tbm=isch&oq=持田亜里沙&sclient=img>持田亜里沙</a></h2></li><li><h2><a href=https://www.google.com/search?q=華村翔真&tbm=isch&oq=華村翔真&sclient=img>華村翔真</a></h2></li></ul><!--2023-08-24 00:10:23-->
 
 <!--imats-birthday-->
 
