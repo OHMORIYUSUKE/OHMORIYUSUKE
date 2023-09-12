@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=夢見りあむ&tbm=isch&oq=夢見りあむ&sclient=img>夢見りあむ</a></h2></li></ul><!--2023-09-12 21:19:54-->
+<ul><li><h2><a href=https://www.google.com/search?q=南条光&tbm=isch&oq=南条光&sclient=img>南条光</a></h2></li></ul><!--2023-09-13 00:10:50-->
 
 <!--imats-birthday-->
 
