@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=神谷奈緒&tbm=isch&oq=神谷奈緒&sclient=img>神谷奈緒</a></h2></li><li><h2><a href=https://www.google.com/search?q=詩花&tbm=isch&oq=詩花&sclient=img>詩花</a></h2></li></ul><!--2023-09-16 21:17:41-->
+<ul><li><h2>09月17日誕生日の人おめでとう!</h2></li></ul><!--2023-09-17 00:09:11-->
 
 <!--imats-birthday-->
 
