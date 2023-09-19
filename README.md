@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=アナスタシア&tbm=isch&oq=アナスタシア&sclient=img>アナスタシア</a></h2></li><li><h2><a href=https://www.google.com/search?q=キャシー・グラハム&tbm=isch&oq=キャシー・グラハム&sclient=img>キャシー・グラハム</a></h2></li></ul><!--2023-09-19 18:10:32-->
+<ul><li><h2><a href=https://www.google.com/search?q=アナスタシア&tbm=isch&oq=アナスタシア&sclient=img>アナスタシア</a></h2></li><li><h2><a href=https://www.google.com/search?q=キャシー・グラハム&tbm=isch&oq=キャシー・グラハム&sclient=img>キャシー・グラハム</a></h2></li></ul><!--2023-09-19 21:20:32-->
 
 <!--imats-birthday-->
 
