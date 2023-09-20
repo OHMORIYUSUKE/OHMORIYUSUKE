@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=永吉昴&tbm=isch&oq=永吉昴&sclient=img>永吉昴</a></h2></li><li><h2><a href=https://www.google.com/search?q=脇山珠美&tbm=isch&oq=脇山珠美&sclient=img>脇山珠美</a></h2></li></ul><!--2023-09-20 21:20:23-->
+<ul><li><h2>09月21日誕生日の人おめでとう!</h2></li></ul><!--2023-09-21 00:11:02-->
 
 <!--imats-birthday-->
 
