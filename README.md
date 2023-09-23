@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=幽谷霧子&tbm=isch&oq=幽谷霧子&sclient=img>幽谷霧子</a></h2></li></ul><!--2023-09-23 21:17:42-->
+<ul><li><h2><a href=https://www.google.com/search?q=伊集院惠&tbm=isch&oq=伊集院惠&sclient=img>伊集院惠</a></h2></li><li><h2><a href=https://www.google.com/search?q=桜庭薫&tbm=isch&oq=桜庭薫&sclient=img>桜庭薫</a></h2></li></ul><!--2023-09-24 00:09:01-->
 
 <!--imats-birthday-->
 
