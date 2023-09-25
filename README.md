@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>09月25日誕生日の人おめでとう!</h2></li></ul><!--2023-09-25 21:20:51-->
+<ul><li><h2><a href=https://www.google.com/search?q=ジュリア&tbm=isch&oq=ジュリア&sclient=img>ジュリア</a></h2></li><li><h2><a href=https://www.google.com/search?q=冴島清美&tbm=isch&oq=冴島清美&sclient=img>冴島清美</a></h2></li></ul><!--2023-09-26 00:11:34-->
 
 <!--imats-birthday-->
 
