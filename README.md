@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>09月27日誕生日の人おめでとう!</h2></li></ul><!--2023-09-27 21:20:20-->
+<ul><li><h2><a href=https://www.google.com/search?q=佐城雪美&tbm=isch&oq=佐城雪美&sclient=img>佐城雪美</a></h2></li></ul><!--2023-09-28 00:11:14-->
 
 <!--imats-birthday-->
 
