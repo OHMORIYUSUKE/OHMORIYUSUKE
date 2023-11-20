@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>11月20日誕生日の人おめでとう!</h2></li></ul><!--2023-11-20 21:21:38-->
+<ul><li><h2><a href=https://www.google.com/search?q=百瀬莉緒&tbm=isch&oq=百瀬莉緒&sclient=img>百瀬莉緒</a></h2></li></ul><!--2023-11-21 00:11:59-->
 
 <!--imats-birthday-->
 
