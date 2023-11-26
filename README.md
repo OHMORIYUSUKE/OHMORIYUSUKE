@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=西城樹里&tbm=isch&oq=西城樹里&sclient=img>西城樹里</a></h2></li></ul><!--2023-11-26 21:18:37-->
+<ul><li><h2>11月27日誕生日の人おめでとう!</h2></li></ul><!--2023-11-27 00:09:50-->
 
 <!--imats-birthday-->
 
