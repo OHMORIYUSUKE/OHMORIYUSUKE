@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=大河タケル&tbm=isch&oq=大河タケル&sclient=img>大河タケル</a></h2></li></ul><!--2023-12-21 21:20:03-->
+<ul><li><h2>12月22日誕生日の人おめでとう!</h2></li></ul><!--2023-12-22 00:11:06-->
 
 <!--imats-birthday-->
 
