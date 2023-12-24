@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=イヴ・サンタクロース&tbm=isch&oq=イヴ・サンタクロース&sclient=img>イヴ・サンタクロース</a></h2></li><li><h2><a href=https://www.google.com/search?q=信玄誠司&tbm=isch&oq=信玄誠司&sclient=img>信玄誠司</a></h2></li><li><h2><a href=https://www.google.com/search?q=萩原雪歩&tbm=isch&oq=萩原雪歩&sclient=img>萩原雪歩</a></h2></li></ul><!--2023-12-24 21:18:22-->
+<ul><li><h2><a href=https://www.google.com/search?q=大崎甘奈&tbm=isch&oq=大崎甘奈&sclient=img>大崎甘奈</a></h2></li><li><h2><a href=https://www.google.com/search?q=大崎甜花&tbm=isch&oq=大崎甜花&sclient=img>大崎甜花</a></h2></li><li><h2><a href=https://www.google.com/search?q=望月聖&tbm=isch&oq=望月聖&sclient=img>望月聖</a></h2></li><li><h2><a href=https://www.google.com/search?q=柊志乃&tbm=isch&oq=柊志乃&sclient=img>柊志乃</a></h2></li></ul><!--2023-12-25 00:09:52-->
 
 <!--imats-birthday-->
 
