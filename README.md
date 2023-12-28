@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=斉藤洋子&tbm=isch&oq=斉藤洋子&sclient=img>斉藤洋子</a></h2></li><li><h2><a href=https://www.google.com/search?q=真鍋いつき&tbm=isch&oq=真鍋いつき&sclient=img>真鍋いつき</a></h2></li><li><h2><a href=https://www.google.com/search?q=高山紗代子&tbm=isch&oq=高山紗代子&sclient=img>高山紗代子</a></h2></li></ul><!--2023-12-29 03:13:38-->
+<ul><li><h2><a href=https://www.google.com/search?q=斉藤洋子&tbm=isch&oq=斉藤洋子&sclient=img>斉藤洋子</a></h2></li><li><h2><a href=https://www.google.com/search?q=真鍋いつき&tbm=isch&oq=真鍋いつき&sclient=img>真鍋いつき</a></h2></li><li><h2><a href=https://www.google.com/search?q=高山紗代子&tbm=isch&oq=高山紗代子&sclient=img>高山紗代子</a></h2></li></ul><!--2023-12-29 06:09:21-->
 
 <!--imats-birthday-->
 
