@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>01月09日誕生日の人おめでとう!</h2></li></ul><!--2024-01-09 21:20:41-->
+<ul><li><h2><a href=https://www.google.com/search?q=瀬名詩織&tbm=isch&oq=瀬名詩織&sclient=img>瀬名詩織</a></h2></li><li><h2><a href=https://www.google.com/search?q=黒埼ちとせ&tbm=isch&oq=黒埼ちとせ&sclient=img>黒埼ちとせ</a></h2></li></ul><!--2024-01-10 00:11:38-->
 
 <!--imats-birthday-->
 
