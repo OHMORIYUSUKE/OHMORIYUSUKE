@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=城ヶ崎美嘉&tbm=isch&oq=城ヶ崎美嘉&sclient=img>城ヶ崎美嘉</a></h2></li><li><h2><a href=https://www.google.com/search?q=猫柳キリオ&tbm=isch&oq=猫柳キリオ&sclient=img>猫柳キリオ</a></h2></li></ul><!--2024-01-12 21:20:33-->
+<ul><li><h2><a href=https://www.google.com/search?q=岸部彩華&tbm=isch&oq=岸部彩華&sclient=img>岸部彩華</a></h2></li><li><h2><a href=https://www.google.com/search?q=浜口あやめ&tbm=isch&oq=浜口あやめ&sclient=img>浜口あやめ</a></h2></li><li><h2><a href=https://www.google.com/search?q=硲道夫&tbm=isch&oq=硲道夫&sclient=img>硲道夫</a></h2></li></ul><!--2024-01-13 00:10:38-->
 
 <!--imats-birthday-->
 
