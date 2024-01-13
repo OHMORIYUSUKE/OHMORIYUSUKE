@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=岸部彩華&tbm=isch&oq=岸部彩華&sclient=img>岸部彩華</a></h2></li><li><h2><a href=https://www.google.com/search?q=浜口あやめ&tbm=isch&oq=浜口あやめ&sclient=img>浜口あやめ</a></h2></li><li><h2><a href=https://www.google.com/search?q=硲道夫&tbm=isch&oq=硲道夫&sclient=img>硲道夫</a></h2></li></ul><!--2024-01-13 18:10:05-->
+<ul><li><h2><a href=https://www.google.com/search?q=岸部彩華&tbm=isch&oq=岸部彩華&sclient=img>岸部彩華</a></h2></li><li><h2><a href=https://www.google.com/search?q=浜口あやめ&tbm=isch&oq=浜口あやめ&sclient=img>浜口あやめ</a></h2></li><li><h2><a href=https://www.google.com/search?q=硲道夫&tbm=isch&oq=硲道夫&sclient=img>硲道夫</a></h2></li></ul><!--2024-01-13 21:19:07-->
 
 <!--imats-birthday-->
 
