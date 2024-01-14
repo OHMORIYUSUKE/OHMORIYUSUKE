@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=原田美世&tbm=isch&oq=原田美世&sclient=img>原田美世</a></h2></li></ul><!--2024-01-14 21:19:01-->
+<ul><li><h2>01月15日誕生日の人おめでとう!</h2></li></ul><!--2024-01-15 00:10:15-->
 
 <!--imats-birthday-->
 
