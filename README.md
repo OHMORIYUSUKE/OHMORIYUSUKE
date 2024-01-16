@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=三峰結華&tbm=isch&oq=三峰結華&sclient=img>三峰結華</a></h2></li></ul><!--2024-01-16 21:21:12-->
+<ul><li><h2><a href=https://www.google.com/search?q=小松伊吹&tbm=isch&oq=小松伊吹&sclient=img>小松伊吹</a></h2></li><li><h2><a href=https://www.google.com/search?q=神谷幸広&tbm=isch&oq=神谷幸広&sclient=img>神谷幸広</a></h2></li></ul><!--2024-01-17 00:11:36-->
 
 <!--imats-birthday-->
 
