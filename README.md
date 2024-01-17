@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=小松伊吹&tbm=isch&oq=小松伊吹&sclient=img>小松伊吹</a></h2></li><li><h2><a href=https://www.google.com/search?q=神谷幸広&tbm=isch&oq=神谷幸広&sclient=img>神谷幸広</a></h2></li></ul><!--2024-01-17 15:14:56-->
+<ul><li><h2><a href=https://www.google.com/search?q=小松伊吹&tbm=isch&oq=小松伊吹&sclient=img>小松伊吹</a></h2></li><li><h2><a href=https://www.google.com/search?q=神谷幸広&tbm=isch&oq=神谷幸広&sclient=img>神谷幸広</a></h2></li></ul><!--2024-01-17 18:11:36-->
 
 <!--imats-birthday-->
 
