@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=小松伊吹&tbm=isch&oq=小松伊吹&sclient=img>小松伊吹</a></h2></li><li><h2><a href=https://www.google.com/search?q=神谷幸広&tbm=isch&oq=神谷幸広&sclient=img>神谷幸広</a></h2></li></ul><!--2024-01-17 21:21:04-->
+<ul><li><h2><a href=https://www.google.com/search?q=北沢志保&tbm=isch&oq=北沢志保&sclient=img>北沢志保</a></h2></li></ul><!--2024-01-18 00:11:24-->
 
 <!--imats-birthday-->
 
