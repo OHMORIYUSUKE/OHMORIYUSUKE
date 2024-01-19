@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=メアリー・コクラン&tbm=isch&oq=メアリー・コクラン&sclient=img>メアリー・コクラン</a></h2></li><li><h2><a href=https://www.google.com/search?q=的場梨沙&tbm=isch&oq=的場梨沙&sclient=img>的場梨沙</a></h2></li></ul><!--2024-01-19 06:10:14-->
+<ul><li><h2><a href=https://www.google.com/search?q=メアリー・コクラン&tbm=isch&oq=メアリー・コクラン&sclient=img>メアリー・コクラン</a></h2></li><li><h2><a href=https://www.google.com/search?q=的場梨沙&tbm=isch&oq=的場梨沙&sclient=img>的場梨沙</a></h2></li></ul><!--2024-01-19 09:53:23-->
 
 <!--imats-birthday-->
 
