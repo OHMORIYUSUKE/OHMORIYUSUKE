@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=斉藤洋子&tbm=isch&oq=斉藤洋子&sclient=img>斉藤洋子</a></h2></li><li><h2><a href=https://www.google.com/search?q=真鍋いつき&tbm=isch&oq=真鍋いつき&sclient=img>真鍋いつき</a></h2></li><li><h2><a href=https://www.google.com/search?q=高山紗代子&tbm=isch&oq=高山紗代子&sclient=img>高山紗代子</a></h2></li></ul><!--2024-02-29 21:19:26-->
+<ul><li><h2><a href=https://www.google.com/search?q=ジュニー&tbm=isch&oq=ジュニー&sclient=img>ジュニー</a></h2></li><li><h2><a href=https://www.google.com/search?q=ルーキートレーナー&tbm=isch&oq=ルーキートレーナー&sclient=img>ルーキートレーナー</a></h2></li><li><h2><a href=https://www.google.com/search?q=七尾百合子&tbm=isch&oq=七尾百合子&sclient=img>七尾百合子</a></h2></li><li><h2><a href=https://www.google.com/search?q=堀裕子&tbm=isch&oq=堀裕子&sclient=img>堀裕子</a></h2></li><li><h2><a href=https://www.google.com/search?q=市川雛菜&tbm=isch&oq=市川雛菜&sclient=img>市川雛菜</a></h2></li><li><h2><a href=https://www.google.com/search?q=柳瀬美由紀&tbm=isch&oq=柳瀬美由紀&sclient=img>柳瀬美由紀</a></h2></li><li><h2><a href=https://www.google.com/search?q=衛藤美紗希&tbm=isch&oq=衛藤美紗希&sclient=img>衛藤美紗希</a></h2></li><li><h2><a href=https://www.google.com/search?q=長富蓮実&tbm=isch&oq=長富蓮実&sclient=img>長富蓮実</a></h2></li></ul><!--2024-03-01 00:10:48-->
 
 <!--imats-birthday-->
 
