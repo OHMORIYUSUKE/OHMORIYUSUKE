@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=堀裕子&tbm=isch&oq=堀裕子&sclient=img>堀裕子</a></h2></li></ul><!--2024-03-13 21:19:39-->
+<ul><li><h2>03月14日誕生日の人おめでとう!</h2></li></ul><!--2024-03-14 00:11:34-->
 
 <!--imats-birthday-->
 
