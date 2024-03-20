@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=大西由里子&tbm=isch&oq=大西由里子&sclient=img>大西由里子</a></h2></li></ul><!--2024-03-20 21:19:09-->
+<ul><li><h2><a href=https://www.google.com/search?q=松尾千鶴&tbm=isch&oq=松尾千鶴&sclient=img>松尾千鶴</a></h2></li></ul><!--2024-03-21 00:11:52-->
 
 <!--imats-birthday-->
 
