@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=村松さくら&tbm=isch&oq=村松さくら&sclient=img>村松さくら</a></h2></li><li><h2><a href=https://www.google.com/search?q=桜守歌織&tbm=isch&oq=桜守歌織&sclient=img>桜守歌織</a></h2></li></ul><!--2024-03-27 21:20:13-->
+<ul><li><h2><a href=https://www.google.com/search?q=白坂小梅&tbm=isch&oq=白坂小梅&sclient=img>白坂小梅</a></h2></li></ul><!--2024-03-28 00:11:49-->
 
 <!--imats-birthday-->
 
