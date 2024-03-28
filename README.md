@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=白坂小梅&tbm=isch&oq=白坂小梅&sclient=img>白坂小梅</a></h2></li></ul><!--2024-03-28 21:20:29-->
+<ul><li><h2>03月29日誕生日の人おめでとう!</h2></li></ul><!--2024-03-29 00:11:23-->
 
 <!--imats-birthday-->
 
