@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=桑山千雪&tbm=isch&oq=桑山千雪&sclient=img>桑山千雪</a></h2></li><li><h2><a href=https://www.google.com/search?q=財前時子&tbm=isch&oq=財前時子&sclient=img>財前時子</a></h2></li></ul><!--2024-04-18 21:19:31-->
+<ul><li><h2><a href=https://www.google.com/search?q=白菊ほたる&tbm=isch&oq=白菊ほたる&sclient=img>白菊ほたる</a></h2></li></ul><!--2024-04-19 00:11:39-->
 
 <!--imats-birthday-->
 
