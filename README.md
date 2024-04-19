@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=白菊ほたる&tbm=isch&oq=白菊ほたる&sclient=img>白菊ほたる</a></h2></li></ul><!--2024-04-19 21:20:01-->
+<ul><li><h2><a href=https://www.google.com/search?q=御手洗翔太&tbm=isch&oq=御手洗翔太&sclient=img>御手洗翔太</a></h2></li></ul><!--2024-04-20 00:11:39-->
 
 <!--imats-birthday-->
 
