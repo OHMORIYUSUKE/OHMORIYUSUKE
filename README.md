@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=一ノ瀬志希&tbm=isch&oq=一ノ瀬志希&sclient=img>一ノ瀬志希</a></h2></li><li><h2><a href=https://www.google.com/search?q=望月杏奈&tbm=isch&oq=望月杏奈&sclient=img>望月杏奈</a></h2></li></ul><!--2024-05-03 21:19:36-->
+<ul><li><h2>05月04日誕生日の人おめでとう!</h2></li></ul><!--2024-05-04 00:11:57-->
 
 <!--imats-birthday-->
 
