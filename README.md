@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=柳清良&tbm=isch&oq=柳清良&sclient=img>柳清良</a></h2></li></ul><!--2024-05-12 21:20:53-->
+<ul><li><h2>05月13日誕生日の人おめでとう!</h2></li></ul><!--2024-05-13 00:11:30-->
 
 <!--imats-birthday-->
 
