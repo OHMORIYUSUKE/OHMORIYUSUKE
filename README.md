@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=安部菜々&tbm=isch&oq=安部菜々&sclient=img>安部菜々</a></h2></li></ul><!--2024-05-15 21:22:53-->
+<ul><li><h2>05月16日誕生日の人おめでとう!</h2></li></ul><!--2024-05-16 00:11:02-->
 
 <!--imats-birthday-->
 
