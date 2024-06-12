@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=奥山沙織&tbm=isch&oq=奥山沙織&sclient=img>奥山沙織</a></h2></li><li><h2><a href=https://www.google.com/search?q=馬場このみ&tbm=isch&oq=馬場このみ&sclient=img>馬場このみ</a></h2></li></ul><!--2024-06-12 21:22:25-->
+<ul><li><h2>06月13日誕生日の人おめでとう!</h2></li></ul><!--2024-06-13 00:11:19-->
 
 <!--imats-birthday-->
 
