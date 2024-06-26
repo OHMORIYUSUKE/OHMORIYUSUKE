@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>06月26日誕生日の人おめでとう!</h2></li></ul><!--2024-06-26 21:23:56-->
+<ul><li><h2><a href=https://www.google.com/search?q=仙崎恵磨&tbm=isch&oq=仙崎恵磨&sclient=img>仙崎恵磨</a></h2></li><li><h2><a href=https://www.google.com/search?q=白瀬咲耶&tbm=isch&oq=白瀬咲耶&sclient=img>白瀬咲耶</a></h2></li></ul><!--2024-06-27 00:13:28-->
 
 <!--imats-birthday-->
 
