@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=矢口美羽&tbm=isch&oq=矢口美羽&sclient=img>矢口美羽</a></h2></li></ul><!--2024-07-10 21:23:23-->
+<ul><li><h2>07月11日誕生日の人おめでとう!</h2></li></ul><!--2024-07-11 00:13:40-->
 
 <!--imats-birthday-->
 
