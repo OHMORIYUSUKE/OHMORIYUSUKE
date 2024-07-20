@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=杉坂海&tbm=isch&oq=杉坂海&sclient=img>杉坂海</a></h2></li><li><h2><a href=https://www.google.com/search?q=龍崎薫&tbm=isch&oq=龍崎薫&sclient=img>龍崎薫</a></h2></li></ul><!--2024-07-20 21:20:57-->
+<ul><li><h2>07月21日誕生日の人おめでとう!</h2></li></ul><!--2024-07-21 00:11:16-->
 
 <!--imats-birthday-->
 
