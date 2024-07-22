@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=佐藤心&tbm=isch&oq=佐藤心&sclient=img>佐藤心</a></h2></li><li><h2><a href=https://www.google.com/search?q=八宮めぐる&tbm=isch&oq=八宮めぐる&sclient=img>八宮めぐる</a></h2></li><li><h2><a href=https://www.google.com/search?q=黒野玄武&tbm=isch&oq=黒野玄武&sclient=img>黒野玄武</a></h2></li></ul><!--2024-07-22 06:10:30-->
+<ul><li><h2><a href=https://www.google.com/search?q=佐藤心&tbm=isch&oq=佐藤心&sclient=img>佐藤心</a></h2></li><li><h2><a href=https://www.google.com/search?q=八宮めぐる&tbm=isch&oq=八宮めぐる&sclient=img>八宮めぐる</a></h2></li><li><h2><a href=https://www.google.com/search?q=黒野玄武&tbm=isch&oq=黒野玄武&sclient=img>黒野玄武</a></h2></li></ul><!--2024-07-22 09:59:29-->
 
 <!--imats-birthday-->
 
