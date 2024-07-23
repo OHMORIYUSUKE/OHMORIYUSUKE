@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=相馬夏美&tbm=isch&oq=相馬夏美&sclient=img>相馬夏美</a></h2></li><li><h2><a href=https://www.google.com/search?q=舞浜歩&tbm=isch&oq=舞浜歩&sclient=img>舞浜歩</a></h2></li></ul><!--2024-07-23 21:23:37-->
+<ul><li><h2><a href=https://www.google.com/search?q=葛城リーリヤ&tbm=isch&oq=葛城リーリヤ&sclient=img>葛城リーリヤ</a></h2></li></ul><!--2024-07-24 00:13:36-->
 
 <!--imats-birthday-->
 
