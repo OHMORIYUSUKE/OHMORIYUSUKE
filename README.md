@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=葛城リーリヤ&tbm=isch&oq=葛城リーリヤ&sclient=img>葛城リーリヤ</a></h2></li></ul><!--2024-07-24 18:12:57-->
+<ul><li><h2><a href=https://www.google.com/search?q=葛城リーリヤ&tbm=isch&oq=葛城リーリヤ&sclient=img>葛城リーリヤ</a></h2></li></ul><!--2024-07-24 21:22:55-->
 
 <!--imats-birthday-->
 
