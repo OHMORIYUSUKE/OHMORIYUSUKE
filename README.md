@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=七草にちか&tbm=isch&oq=七草にちか&sclient=img>七草にちか</a></h2></li><li><h2><a href=https://www.google.com/search?q=奥空心白&tbm=isch&oq=奥空心白&sclient=img>奥空心白</a></h2></li></ul><!--2024-07-26 15:17:44-->
+<ul><li><h2><a href=https://www.google.com/search?q=七草にちか&tbm=isch&oq=七草にちか&sclient=img>七草にちか</a></h2></li><li><h2><a href=https://www.google.com/search?q=奥空心白&tbm=isch&oq=奥空心白&sclient=img>奥空心白</a></h2></li></ul><!--2024-07-26 18:12:38-->
 
 <!--imats-birthday-->
 
