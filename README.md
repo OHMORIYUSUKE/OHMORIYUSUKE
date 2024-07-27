@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=新田美波&tbm=isch&oq=新田美波&sclient=img>新田美波</a></h2></li></ul><!--2024-07-27 21:23:16-->
+<ul><li><h2>07月28日誕生日の人おめでとう!</h2></li></ul><!--2024-07-28 00:11:47-->
 
 <!--imats-birthday-->
 
