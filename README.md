@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=小宮果穂&tbm=isch&oq=小宮果穂&sclient=img>小宮果穂</a></h2></li></ul><!--2024-07-29 21:24:00-->
+<ul><li><h2><a href=https://www.google.com/search?q=伊吹翼&tbm=isch&oq=伊吹翼&sclient=img>伊吹翼</a></h2></li><li><h2><a href=https://www.google.com/search?q=城ヶ崎莉嘉&tbm=isch&oq=城ヶ崎莉嘉&sclient=img>城ヶ崎莉嘉</a></h2></li></ul><!--2024-07-30 00:13:07-->
 
 <!--imats-birthday-->
 
