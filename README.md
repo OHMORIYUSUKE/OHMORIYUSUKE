@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=五十嵐響子&tbm=isch&oq=五十嵐響子&sclient=img>五十嵐響子</a></h2></li><li><h2><a href=https://www.google.com/search?q=渋谷凛&tbm=isch&oq=渋谷凛&sclient=img>渋谷凛</a></h2></li><li><h2><a href=https://www.google.com/search?q=高坂海美&tbm=isch&oq=高坂海美&sclient=img>高坂海美</a></h2></li></ul><!--2024-08-10 15:16:17-->
+<ul><li><h2><a href=https://www.google.com/search?q=五十嵐響子&tbm=isch&oq=五十嵐響子&sclient=img>五十嵐響子</a></h2></li><li><h2><a href=https://www.google.com/search?q=渋谷凛&tbm=isch&oq=渋谷凛&sclient=img>渋谷凛</a></h2></li><li><h2><a href=https://www.google.com/search?q=高坂海美&tbm=isch&oq=高坂海美&sclient=img>高坂海美</a></h2></li></ul><!--2024-08-10 18:12:45-->
 
 <!--imats-birthday-->
 
