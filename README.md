@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=有栖川夏葉&tbm=isch&oq=有栖川夏葉&sclient=img>有栖川夏葉</a></h2></li></ul><!--2024-08-16 21:24:17-->
+<ul><li><h2><a href=https://www.google.com/search?q=西島櫂&tbm=isch&oq=西島櫂&sclient=img>西島櫂</a></h2></li><li><h2><a href=https://www.google.com/search?q=関裕美&tbm=isch&oq=関裕美&sclient=img>関裕美</a></h2></li></ul><!--2024-08-17 00:12:12-->
 
 <!--imats-birthday-->
 
