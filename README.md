@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=西島櫂&tbm=isch&oq=西島櫂&sclient=img>西島櫂</a></h2></li><li><h2><a href=https://www.google.com/search?q=関裕美&tbm=isch&oq=関裕美&sclient=img>関裕美</a></h2></li></ul><!--2024-08-17 09:56:46-->
+<ul><li><h2><a href=https://www.google.com/search?q=西島櫂&tbm=isch&oq=西島櫂&sclient=img>西島櫂</a></h2></li><li><h2><a href=https://www.google.com/search?q=関裕美&tbm=isch&oq=関裕美&sclient=img>関裕美</a></h2></li></ul><!--2024-08-17 12:13:11-->
 
 <!--imats-birthday-->
 
