@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=木村夏樹&tbm=isch&oq=木村夏樹&sclient=img>木村夏樹</a></h2></li><li><h2><a href=https://www.google.com/search?q=水嶋咲&tbm=isch&oq=水嶋咲&sclient=img>水嶋咲</a></h2></li></ul><!--2024-08-19 18:13:53-->
+<ul><li><h2><a href=https://www.google.com/search?q=木村夏樹&tbm=isch&oq=木村夏樹&sclient=img>木村夏樹</a></h2></li><li><h2><a href=https://www.google.com/search?q=水嶋咲&tbm=isch&oq=水嶋咲&sclient=img>水嶋咲</a></h2></li></ul><!--2024-08-19 21:24:25-->
 
 <!--imats-birthday-->
 
