@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=杜野凛世&tbm=isch&oq=杜野凛世&sclient=img>杜野凛世</a></h2></li></ul><!--2024-10-19 21:25:08-->
+<ul><li><h2>10月20日誕生日の人おめでとう!</h2></li></ul><!--2024-10-20 00:12:30-->
 
 <!--imats-birthday-->
 
