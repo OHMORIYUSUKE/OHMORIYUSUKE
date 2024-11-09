@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>11月09日誕生日の人おめでとう!</h2></li></ul><!--2024-11-09 21:23:43-->
+<ul><li><h2><a href=https://www.google.com/search?q=黒埼ちとせ&tbm=isch&oq=黒埼ちとせ&sclient=img>黒埼ちとせ</a></h2></li></ul><!--2024-11-10 00:13:16-->
 
 <!--imats-birthday-->
 
