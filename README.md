@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>11月16日誕生日の人おめでとう!</h2></li></ul><!--2024-11-16 21:25:47-->
+<ul><li><h2><a href=https://www.google.com/search?q=小松伊吹&tbm=isch&oq=小松伊吹&sclient=img>小松伊吹</a></h2></li></ul><!--2024-11-17 00:13:05-->
 
 <!--imats-birthday-->
 
