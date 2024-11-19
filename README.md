@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=的場梨沙&tbm=isch&oq=的場梨沙&sclient=img>的場梨沙</a></h2></li></ul><!--2024-11-19 21:28:36-->
+<ul><li><h2>11月20日誕生日の人おめでとう!</h2></li></ul><!--2024-11-20 00:15:10-->
 
 <!--imats-birthday-->
 
