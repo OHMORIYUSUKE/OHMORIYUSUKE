@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=横山千佳&tbm=isch&oq=横山千佳&sclient=img>横山千佳</a></h2></li></ul><!--2024-12-18 21:28:58-->
+<ul><li><h2>12月19日誕生日の人おめでとう!</h2></li></ul><!--2024-12-19 00:15:02-->
 
 <!--imats-birthday-->
 
