@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=北沢志保&tbm=isch&oq=北沢志保&sclient=img>北沢志保</a></h2></li><li><h2><a href=https://www.google.com/search?q=有村麻央&tbm=isch&oq=有村麻央&sclient=img>有村麻央</a></h2></li></ul><!--2025-01-18 10:02:13-->
+<ul><li><h2><a href=https://www.google.com/search?q=北沢志保&tbm=isch&oq=北沢志保&sclient=img>北沢志保</a></h2></li><li><h2><a href=https://www.google.com/search?q=有村麻央&tbm=isch&oq=有村麻央&sclient=img>有村麻央</a></h2></li></ul><!--2025-01-18 12:13:38-->
 
 <!--imats-birthday-->
 
