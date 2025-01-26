@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=西城樹里&tbm=isch&oq=西城樹里&sclient=img>西城樹里</a></h2></li></ul><!--2025-01-26 21:23:20-->
+<ul><li><h2><a href=https://www.google.com/search?q=真壁瑞希&tbm=isch&oq=真壁瑞希&sclient=img>真壁瑞希</a></h2></li></ul><!--2025-01-27 00:12:45-->
 
 <!--imats-birthday-->
 
