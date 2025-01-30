@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>01月30日誕生日の人おめでとう!</h2></li></ul><!--2025-01-30 21:26:33-->
+<ul><li><h2><a href=https://www.google.com/search?q=斑鳩ルカ&tbm=isch&oq=斑鳩ルカ&sclient=img>斑鳩ルカ</a></h2></li></ul><!--2025-01-31 00:13:48-->
 
 <!--imats-birthday-->
 
