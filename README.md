@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>02月15日誕生日の人おめでとう!</h2></li></ul><!--2025-02-15 21:23:57-->
+<ul><li><h2><a href=https://www.google.com/search?q=中谷育&tbm=isch&oq=中谷育&sclient=img>中谷育</a></h2></li><li><h2><a href=https://www.google.com/search?q=大和亜季&tbm=isch&oq=大和亜季&sclient=img>大和亜季</a></h2></li><li><h2><a href=https://www.google.com/search?q=小日向美穂&tbm=isch&oq=小日向美穂&sclient=img>小日向美穂</a></h2></li></ul><!--2025-02-16 00:12:49-->
 
 <!--imats-birthday-->
 
