@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=中谷育&tbm=isch&oq=中谷育&sclient=img>中谷育</a></h2></li><li><h2><a href=https://www.google.com/search?q=大和亜季&tbm=isch&oq=大和亜季&sclient=img>大和亜季</a></h2></li><li><h2><a href=https://www.google.com/search?q=小日向美穂&tbm=isch&oq=小日向美穂&sclient=img>小日向美穂</a></h2></li></ul><!--2025-02-16 10:11:00-->
+<ul><li><h2><a href=https://www.google.com/search?q=中谷育&tbm=isch&oq=中谷育&sclient=img>中谷育</a></h2></li><li><h2><a href=https://www.google.com/search?q=大和亜季&tbm=isch&oq=大和亜季&sclient=img>大和亜季</a></h2></li><li><h2><a href=https://www.google.com/search?q=小日向美穂&tbm=isch&oq=小日向美穂&sclient=img>小日向美穂</a></h2></li></ul><!--2025-02-16 12:20:09-->
 
 <!--imats-birthday-->
 
