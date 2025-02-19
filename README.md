@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=遊佐こずえ&tbm=isch&oq=遊佐こずえ&sclient=img>遊佐こずえ</a></h2></li></ul><!--2025-02-19 21:25:19-->
+<ul><li><h2><a href=https://www.google.com/search?q=箱崎星梨花&tbm=isch&oq=箱崎星梨花&sclient=img>箱崎星梨花</a></h2></li></ul><!--2025-02-20 00:15:15-->
 
 <!--imats-birthday-->
 
