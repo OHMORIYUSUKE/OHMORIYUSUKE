@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=大河タケル&tbm=isch&oq=大河タケル&sclient=img>大河タケル</a></h2></li><li><h2><a href=https://www.google.com/search?q=篠澤広&tbm=isch&oq=篠澤広&sclient=img>篠澤広</a></h2></li></ul><!--2025-02-21 12:19:23-->
+<ul><li><h2><a href=https://www.google.com/search?q=大河タケル&tbm=isch&oq=大河タケル&sclient=img>大河タケル</a></h2></li><li><h2><a href=https://www.google.com/search?q=篠澤広&tbm=isch&oq=篠澤広&sclient=img>篠澤広</a></h2></li></ul><!--2025-02-21 15:19:39-->
 
 <!--imats-birthday-->
 
