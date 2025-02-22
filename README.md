@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=前川みく&tbm=isch&oq=前川みく&sclient=img>前川みく</a></h2></li></ul><!--2025-02-22 21:23:56-->
+<ul><li><h2><a href=https://www.google.com/search?q=天道輝&tbm=isch&oq=天道輝&sclient=img>天道輝</a></h2></li></ul><!--2025-02-23 00:12:25-->
 
 <!--imats-birthday-->
 
