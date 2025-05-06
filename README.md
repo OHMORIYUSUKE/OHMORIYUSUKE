@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=黒川千秋&tbm=isch&oq=黒川千秋&sclient=img>黒川千秋</a></h2></li></ul><!--2025-02-26 03:19:49-->
+<ul><li><h2>05月06日誕生日の人おめでとう!</h2></li></ul><!--2025-05-06 18:16:46-->
 
 <!--imats-birthday-->
 
