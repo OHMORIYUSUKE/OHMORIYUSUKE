@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>05月19日誕生日の人おめでとう!</h2></li></ul><!--2025-05-19 21:33:11-->
+<ul><li><h2><a href=https://www.google.com/search?q=兜大吾&tbm=isch&oq=兜大吾&sclient=img>兜大吾</a></h2></li></ul><!--2025-05-20 00:17:15-->
 
 <!--imats-birthday-->
 
