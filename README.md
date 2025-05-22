@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=双海亜美&tbm=isch&oq=双海亜美&sclient=img>双海亜美</a></h2></li><li><h2><a href=https://www.google.com/search?q=双海真美&tbm=isch&oq=双海真美&sclient=img>双海真美</a></h2></li></ul><!--2025-05-22 15:22:52-->
+<ul><li><h2><a href=https://www.google.com/search?q=双海亜美&tbm=isch&oq=双海亜美&sclient=img>双海亜美</a></h2></li><li><h2><a href=https://www.google.com/search?q=双海真美&tbm=isch&oq=双海真美&sclient=img>双海真美</a></h2></li></ul><!--2025-05-22 18:16:46-->
 
 <!--imats-birthday-->
 
