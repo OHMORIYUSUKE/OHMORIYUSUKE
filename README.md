@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>05月28日誕生日の人おめでとう!</h2></li></ul><!--2025-05-28 21:33:03-->
+<ul><li><h2><a href=https://www.google.com/search?q=白石紬&tbm=isch&oq=白石紬&sclient=img>白石紬</a></h2></li><li><h2><a href=https://www.google.com/search?q=綾瀬穂乃香&tbm=isch&oq=綾瀬穂乃香&sclient=img>綾瀬穂乃香</a></h2></li></ul><!--2025-05-29 00:15:53-->
 
 <!--imats-birthday-->
 
