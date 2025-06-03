@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=多田李衣菜&tbm=isch&oq=多田李衣菜&sclient=img>多田李衣菜</a></h2></li><li><h2><a href=https://www.google.com/search?q=花園百々人&tbm=isch&oq=花園百々人&sclient=img>花園百々人</a></h2></li></ul><!--2025-06-03 21:33:25-->
+<ul><li><h2>06月04日誕生日の人おめでとう!</h2></li></ul><!--2025-06-04 00:18:06-->
 
 <!--imats-birthday-->
 
