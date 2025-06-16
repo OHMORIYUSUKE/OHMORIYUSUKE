@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=久川凪&tbm=isch&oq=久川凪&sclient=img>久川凪</a></h2></li><li><h2><a href=https://www.google.com/search?q=久川颯&tbm=isch&oq=久川颯&sclient=img>久川颯</a></h2></li></ul><!--2025-06-16 12:50:34-->
+<ul><li><h2><a href=https://www.google.com/search?q=久川凪&tbm=isch&oq=久川凪&sclient=img>久川凪</a></h2></li><li><h2><a href=https://www.google.com/search?q=久川颯&tbm=isch&oq=久川颯&sclient=img>久川颯</a></h2></li></ul><!--2025-06-16 15:25:32-->
 
 <!--imats-birthday-->
 
