@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=榊夏来&tbm=isch&oq=榊夏来&sclient=img>榊夏来</a></h2></li></ul><!--2025-06-18 21:33:56-->
+<ul><li><h2>06月19日誕生日の人おめでとう!</h2></li></ul><!--2025-06-19 00:17:39-->
 
 <!--imats-birthday-->
 
