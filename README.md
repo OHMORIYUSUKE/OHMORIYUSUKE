@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>06月22日誕生日の人おめでとう!</h2></li></ul><!--2025-06-22 21:29:34-->
+<ul><li><h2><a href=https://www.google.com/search?q=秋月律子&tbm=isch&oq=秋月律子&sclient=img>秋月律子</a></h2></li></ul><!--2025-06-23 00:14:31-->
 
 <!--imats-birthday-->
 
