@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=三好紗南&tbm=isch&oq=三好紗南&sclient=img>三好紗南</a></h2></li><li><h2><a href=https://www.google.com/search?q=日高愛&tbm=isch&oq=日高愛&sclient=img>日高愛</a></h2></li></ul><!--2025-06-25 21:34:19-->
+<ul><li><h2>06月26日誕生日の人おめでとう!</h2></li></ul><!--2025-06-26 00:18:00-->
 
 <!--imats-birthday-->
 
