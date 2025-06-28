@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=ナターリア&tbm=isch&oq=ナターリア&sclient=img>ナターリア</a></h2></li><li><h2><a href=https://www.google.com/search?q=青羽美咲&tbm=isch&oq=青羽美咲&sclient=img>青羽美咲</a></h2></li></ul><!--2025-06-29 03:20:16-->
+<ul><li><h2><a href=https://www.google.com/search?q=ナターリア&tbm=isch&oq=ナターリア&sclient=img>ナターリア</a></h2></li><li><h2><a href=https://www.google.com/search?q=青羽美咲&tbm=isch&oq=青羽美咲&sclient=img>青羽美咲</a></h2></li></ul><!--2025-06-29 06:13:52-->
 
 <!--imats-birthday-->
 
