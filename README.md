@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=西島櫂&tbm=isch&oq=西島櫂&sclient=img>西島櫂</a></h2></li><li><h2><a href=https://www.google.com/search?q=関裕美&tbm=isch&oq=関裕美&sclient=img>関裕美</a></h2></li></ul><!--2025-08-17 21:31:27-->
+<ul><li><h2><a href=https://www.google.com/search?q=矢吹可奈&tbm=isch&oq=矢吹可奈&sclient=img>矢吹可奈</a></h2></li><li><h2><a href=https://www.google.com/search?q=首藤葵&tbm=isch&oq=首藤葵&sclient=img>首藤葵</a></h2></li></ul><!--2025-08-18 00:14:59-->
 
 <!--imats-birthday-->
 
