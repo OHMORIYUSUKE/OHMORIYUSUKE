@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>08月25日誕生日の人おめでとう!</h2></li></ul><!--2025-08-25 21:33:07-->
+<ul><li><h2><a href=https://www.google.com/search?q=クラリス&tbm=isch&oq=クラリス&sclient=img>クラリス</a></h2></li></ul><!--2025-08-26 00:16:46-->
 
 <!--imats-birthday-->
 
