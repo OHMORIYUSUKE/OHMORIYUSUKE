@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=井村雪菜&tbm=isch&oq=井村雪菜&sclient=img>井村雪菜</a></h2></li><li><h2><a href=https://www.google.com/search?q=森久保乃々&tbm=isch&oq=森久保乃々&sclient=img>森久保乃々</a></h2></li><li><h2><a href=https://www.google.com/search?q=榊原里美&tbm=isch&oq=榊原里美&sclient=img>榊原里美</a></h2></li><li><h2><a href=https://www.google.com/search?q=篠宮可憐&tbm=isch&oq=篠宮可憐&sclient=img>篠宮可憐</a></h2></li></ul><!--2025-08-27 10:12:24-->
+<ul><li><h2><a href=https://www.google.com/search?q=井村雪菜&tbm=isch&oq=井村雪菜&sclient=img>井村雪菜</a></h2></li><li><h2><a href=https://www.google.com/search?q=森久保乃々&tbm=isch&oq=森久保乃々&sclient=img>森久保乃々</a></h2></li><li><h2><a href=https://www.google.com/search?q=榊原里美&tbm=isch&oq=榊原里美&sclient=img>榊原里美</a></h2></li><li><h2><a href=https://www.google.com/search?q=篠宮可憐&tbm=isch&oq=篠宮可憐&sclient=img>篠宮可憐</a></h2></li></ul><!--2025-08-27 12:32:16-->
 
 <!--imats-birthday-->
 
