@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=菊地真&tbm=isch&oq=菊地真&sclient=img>菊地真</a></h2></li></ul><!--2025-08-29 21:30:51-->
+<ul><li><h2><a href=https://www.google.com/search?q=若林智香&tbm=isch&oq=若林智香&sclient=img>若林智香</a></h2></li></ul><!--2025-08-30 00:13:11-->
 
 <!--imats-birthday-->
 
