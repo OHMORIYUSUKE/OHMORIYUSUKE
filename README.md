@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>08月31日誕生日の人おめでとう!</h2></li></ul><!--2025-08-31 21:28:28-->
+<ul><li><h2><a href=https://www.google.com/search?q=アナスタシア&tbm=isch&oq=アナスタシア&sclient=img>アナスタシア</a></h2></li><li><h2><a href=https://www.google.com/search?q=キャシー・グラハム&tbm=isch&oq=キャシー・グラハム&sclient=img>キャシー・グラハム</a></h2></li><li><h2><a href=https://www.google.com/search?q=ベテラントレーナー&tbm=isch&oq=ベテラントレーナー&sclient=img>ベテラントレーナー</a></h2></li><li><h2><a href=https://www.google.com/search?q=上水流宇宙&tbm=isch&oq=上水流宇宙&sclient=img>上水流宇宙</a></h2></li><li><h2><a href=https://www.google.com/search?q=円城寺道流&tbm=isch&oq=円城寺道流&sclient=img>円城寺道流</a></h2></li><li><h2><a href=https://www.google.com/search?q=南条光&tbm=isch&oq=南条光&sclient=img>南条光</a></h2></li><li><h2><a href=https://www.google.com/search?q=夢見りあむ&tbm=isch&oq=夢見りあむ&sclient=img>夢見りあむ</a></h2></li><li><h2><a href=https://www.google.com/search?q=姫川友紀&tbm=isch&oq=姫川友紀&sclient=img>姫川友紀</a></h2></li><li><h2><a href=https://www.google.com/search?q=最上静香&tbm=isch&oq=最上静香&sclient=img>最上静香</a></h2></li><li><h2><a href=https://www.google.com/search?q=神谷奈緒&tbm=isch&oq=神谷奈緒&sclient=img>神谷奈緒</a></h2></li><li><h2><a href=https://www.google.com/search?q=秋月涼&tbm=isch&oq=秋月涼&sclient=img>秋月涼</a></h2></li><li><h2><a href=https://www.google.com/search?q=詩花&tbm=isch&oq=詩花&sclient=img>詩花</a></h2></li></ul><!--2025-09-01 00:13:22-->
 
 <!--imats-birthday-->
 
