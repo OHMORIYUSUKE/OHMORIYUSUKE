@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=ベテラントレーナー&tbm=isch&oq=ベテラントレーナー&sclient=img>ベテラントレーナー</a></h2></li></ul><!--2025-09-10 21:30:29-->
+<ul><li><h2>09月11日誕生日の人おめでとう!</h2></li></ul><!--2025-09-11 00:15:25-->
 
 <!--imats-birthday-->
 
