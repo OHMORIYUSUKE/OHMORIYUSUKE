@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=南条光&tbm=isch&oq=南条光&sclient=img>南条光</a></h2></li></ul><!--2025-09-13 21:26:55-->
+<ul><li><h2><a href=https://www.google.com/search?q=円城寺道流&tbm=isch&oq=円城寺道流&sclient=img>円城寺道流</a></h2></li><li><h2><a href=https://www.google.com/search?q=姫川友紀&tbm=isch&oq=姫川友紀&sclient=img>姫川友紀</a></h2></li><li><h2><a href=https://www.google.com/search?q=最上静香&tbm=isch&oq=最上静香&sclient=img>最上静香</a></h2></li></ul><!--2025-09-14 00:11:57-->
 
 <!--imats-birthday-->
 
