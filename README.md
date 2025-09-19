@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=永吉昴&tbm=isch&oq=永吉昴&sclient=img>永吉昴</a></h2></li><li><h2><a href=https://www.google.com/search?q=脇山珠美&tbm=isch&oq=脇山珠美&sclient=img>脇山珠美</a></h2></li></ul><!--2025-09-20 03:20:49-->
+<ul><li><h2><a href=https://www.google.com/search?q=永吉昴&tbm=isch&oq=永吉昴&sclient=img>永吉昴</a></h2></li><li><h2><a href=https://www.google.com/search?q=脇山珠美&tbm=isch&oq=脇山珠美&sclient=img>脇山珠美</a></h2></li></ul><!--2025-09-20 06:12:52-->
 
 <!--imats-birthday-->
 
