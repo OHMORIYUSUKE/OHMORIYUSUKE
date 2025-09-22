@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>09月22日誕生日の人おめでとう!</h2></li></ul><!--2025-09-22 21:31:59-->
+<ul><li><h2><a href=https://www.google.com/search?q=幽谷霧子&tbm=isch&oq=幽谷霧子&sclient=img>幽谷霧子</a></h2></li></ul><!--2025-09-23 00:16:34-->
 
 <!--imats-birthday-->
 
