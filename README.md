@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=ジュリア&tbm=isch&oq=ジュリア&sclient=img>ジュリア</a></h2></li><li><h2><a href=https://www.google.com/search?q=冴島清美&tbm=isch&oq=冴島清美&sclient=img>冴島清美</a></h2></li></ul><!--2025-09-26 12:29:04-->
+<ul><li><h2><a href=https://www.google.com/search?q=ジュリア&tbm=isch&oq=ジュリア&sclient=img>ジュリア</a></h2></li><li><h2><a href=https://www.google.com/search?q=冴島清美&tbm=isch&oq=冴島清美&sclient=img>冴島清美</a></h2></li></ul><!--2025-09-26 15:22:43-->
 
 <!--imats-birthday-->
 
