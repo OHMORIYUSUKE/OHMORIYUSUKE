@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=楊菲菲&tbm=isch&oq=楊菲菲&sclient=img>楊菲菲</a></h2></li></ul><!--2025-09-29 21:32:24-->
+<ul><li><h2>09月30日誕生日の人おめでとう!</h2></li></ul><!--2025-09-30 00:15:36-->
 
 <!--imats-birthday-->
 
