@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=並木芽衣子&tbm=isch&oq=並木芽衣子&sclient=img>並木芽衣子</a></h2></li><li><h2><a href=https://www.google.com/search?q=藤本里奈&tbm=isch&oq=藤本里奈&sclient=img>藤本里奈</a></h2></li></ul><!--2025-10-14 21:34:15-->
+<ul><li><h2>10月15日誕生日の人おめでとう!</h2></li></ul><!--2025-10-15 00:17:13-->
 
 <!--imats-birthday-->
 
