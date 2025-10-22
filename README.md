@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>10月22日誕生日の人おめでとう!</h2></li></ul><!--2025-10-22 21:34:25-->
+<ul><li><h2><a href=https://www.google.com/search?q=西川保奈美&tbm=isch&oq=西川保奈美&sclient=img>西川保奈美</a></h2></li></ul><!--2025-10-23 00:15:03-->
 
 <!--imats-birthday-->
 
