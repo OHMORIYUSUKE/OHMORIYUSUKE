@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=桜井夢子&tbm=isch&oq=桜井夢子&sclient=img>桜井夢子</a></h2></li></ul><!--2025-10-24 21:34:32-->
+<ul><li><h2>10月25日誕生日の人おめでとう!</h2></li></ul><!--2025-10-25 00:16:04-->
 
 <!--imats-birthday-->
 
