@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=城ヶ崎美嘉&tbm=isch&oq=城ヶ崎美嘉&sclient=img>城ヶ崎美嘉</a></h2></li><li><h2><a href=https://www.google.com/search?q=猫柳キリオ&tbm=isch&oq=猫柳キリオ&sclient=img>猫柳キリオ</a></h2></li></ul><!--2025-11-12 21:34:25-->
+<ul><li><h2><a href=https://www.google.com/search?q=岸部彩華&tbm=isch&oq=岸部彩華&sclient=img>岸部彩華</a></h2></li></ul><!--2025-11-13 00:18:15-->
 
 <!--imats-birthday-->
 
