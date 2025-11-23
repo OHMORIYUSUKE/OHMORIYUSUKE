@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=星井美希&tbm=isch&oq=星井美希&sclient=img>星井美希</a></h2></li></ul><!--2025-11-23 21:28:39-->
+<ul><li><h2>11月24日誕生日の人おめでとう!</h2></li></ul><!--2025-11-24 00:14:02-->
 
 <!--imats-birthday-->
 
