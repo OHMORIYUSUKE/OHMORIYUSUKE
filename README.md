@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>12月09日誕生日の人おめでとう!</h2></li></ul><!--2025-12-09 21:36:14-->
+<ul><li><h2><a href=https://www.google.com/search?q=マスタートレーナー&tbm=isch&oq=マスタートレーナー&sclient=img>マスタートレーナー</a></h2></li></ul><!--2025-12-10 00:19:39-->
 
 <!--imats-birthday-->
 
