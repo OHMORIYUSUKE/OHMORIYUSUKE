@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>12月11日誕生日の人おめでとう!</h2></li></ul><!--2025-12-11 21:37:11-->
+<ul><li><h2><a href=https://www.google.com/search?q=卯月巻緒&tbm=isch&oq=卯月巻緒&sclient=img>卯月巻緒</a></h2></li><li><h2><a href=https://www.google.com/search?q=塩見周子&tbm=isch&oq=塩見周子&sclient=img>塩見周子</a></h2></li></ul><!--2025-12-12 00:20:01-->
 
 <!--imats-birthday-->
 
