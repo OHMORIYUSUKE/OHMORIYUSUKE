@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=サイネリア&tbm=isch&oq=サイネリア&sclient=img>サイネリア</a></h2></li></ul><!--2025-12-14 21:32:02-->
+<ul><li><h2>12月15日誕生日の人おめでとう!</h2></li></ul><!--2025-12-15 00:15:25-->
 
 <!--imats-birthday-->
 
