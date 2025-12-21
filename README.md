@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=大河タケル&tbm=isch&oq=大河タケル&sclient=img>大河タケル</a></h2></li><li><h2><a href=https://www.google.com/search?q=篠澤広&tbm=isch&oq=篠澤広&sclient=img>篠澤広</a></h2></li></ul><!--2025-12-21 21:32:24-->
+<ul><li><h2>12月22日誕生日の人おめでとう!</h2></li></ul><!--2025-12-22 00:15:21-->
 
 <!--imats-birthday-->
 
