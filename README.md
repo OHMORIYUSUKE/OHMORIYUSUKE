@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=瀬名詩織&tbm=isch&oq=瀬名詩織&sclient=img>瀬名詩織</a></h2></li><li><h2><a href=https://www.google.com/search?q=黒埼ちとせ&tbm=isch&oq=黒埼ちとせ&sclient=img>黒埼ちとせ</a></h2></li></ul><!--2026-01-10 06:17:08-->
+<ul><li><h2><a href=https://www.google.com/search?q=瀬名詩織&tbm=isch&oq=瀬名詩織&sclient=img>瀬名詩織</a></h2></li><li><h2><a href=https://www.google.com/search?q=黒埼ちとせ&tbm=isch&oq=黒埼ちとせ&sclient=img>黒埼ちとせ</a></h2></li></ul><!--2026-01-10 10:20:33-->
 
 <!--imats-birthday-->
 
