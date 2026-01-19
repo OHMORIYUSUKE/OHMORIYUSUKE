@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=メアリー・コクラン&tbm=isch&oq=メアリー・コクラン&sclient=img>メアリー・コクラン</a></h2></li><li><h2><a href=https://www.google.com/search?q=的場梨沙&tbm=isch&oq=的場梨沙&sclient=img>的場梨沙</a></h2></li></ul><!--2026-01-19 21:41:11-->
+<ul><li><h2>01月20日誕生日の人おめでとう!</h2></li></ul><!--2026-01-20 00:22:08-->
 
 <!--imats-birthday-->
 
