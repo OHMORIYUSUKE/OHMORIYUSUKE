@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=星井美希&tbm=isch&oq=星井美希&sclient=img>星井美希</a></h2></li><li><h2><a href=https://www.google.com/search?q=西園寺琴歌&tbm=isch&oq=西園寺琴歌&sclient=img>西園寺琴歌</a></h2></li></ul><!--2026-01-23 21:39:00-->
+<ul><li><h2>01月24日誕生日の人おめでとう!</h2></li></ul><!--2026-01-24 00:21:15-->
 
 <!--imats-birthday-->
 
