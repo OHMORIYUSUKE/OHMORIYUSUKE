@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=川島瑞樹&tbm=isch&oq=川島瑞樹&sclient=img>川島瑞樹</a></h2></li><li><h2><a href=https://www.google.com/search?q=輿水幸子&tbm=isch&oq=輿水幸子&sclient=img>輿水幸子</a></h2></li></ul><!--2026-01-25 21:35:31-->
+<ul><li><h2><a href=https://www.google.com/search?q=西城樹里&tbm=isch&oq=西城樹里&sclient=img>西城樹里</a></h2></li></ul><!--2026-01-26 00:16:33-->
 
 <!--imats-birthday-->
 
