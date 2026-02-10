@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=マスタートレーナー&tbm=isch&oq=マスタートレーナー&sclient=img>マスタートレーナー</a></h2></li><li><h2><a href=https://www.google.com/search?q=姫野かのん&tbm=isch&oq=姫野かのん&sclient=img>姫野かのん</a></h2></li></ul><!--2026-02-10 06:35:16-->
+<ul><li><h2><a href=https://www.google.com/search?q=マスタートレーナー&tbm=isch&oq=マスタートレーナー&sclient=img>マスタートレーナー</a></h2></li><li><h2><a href=https://www.google.com/search?q=姫野かのん&tbm=isch&oq=姫野かのん&sclient=img>姫野かのん</a></h2></li></ul><!--2026-02-10 11:05:34-->
 
 <!--imats-birthday-->
 
