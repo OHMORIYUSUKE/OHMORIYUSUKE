@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=横山千佳&tbm=isch&oq=横山千佳&sclient=img>横山千佳</a></h2></li></ul><!--2026-02-18 21:56:05-->
+<ul><li><h2><a href=https://www.google.com/search?q=遊佐こずえ&tbm=isch&oq=遊佐こずえ&sclient=img>遊佐こずえ</a></h2></li></ul><!--2026-02-19 00:47:09-->
 
 <!--imats-birthday-->
 
