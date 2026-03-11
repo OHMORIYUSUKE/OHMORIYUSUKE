@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>03月11日誕生日の人おめでとう!</h2></li></ul><!--2026-03-11 21:52:20-->
+<ul><li><h2><a href=https://www.google.com/search?q=ジュニー&tbm=isch&oq=ジュニー&sclient=img>ジュニー</a></h2></li></ul><!--2026-03-12 00:43:01-->
 
 <!--imats-birthday-->
 
