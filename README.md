@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=佐竹美奈子&tbm=isch&oq=佐竹美奈子&sclient=img>佐竹美奈子</a></h2></li><li><h2><a href=https://www.google.com/search?q=渡辺みのり&tbm=isch&oq=渡辺みのり&sclient=img>渡辺みのり</a></h2></li></ul><!--2026-03-22 10:56:00-->
+<ul><li><h2><a href=https://www.google.com/search?q=佐竹美奈子&tbm=isch&oq=佐竹美奈子&sclient=img>佐竹美奈子</a></h2></li><li><h2><a href=https://www.google.com/search?q=渡辺みのり&tbm=isch&oq=渡辺みのり&sclient=img>渡辺みのり</a></h2></li></ul><!--2026-03-22 13:48:59-->
 
 <!--imats-birthday-->
 
