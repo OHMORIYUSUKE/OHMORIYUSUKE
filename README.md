@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=中野有香&tbm=isch&oq=中野有香&sclient=img>中野有香</a></h2></li></ul><!--2026-03-23 21:58:44-->
+<ul><li><h2>03月24日誕生日の人おめでとう!</h2></li></ul><!--2026-03-24 00:56:12-->
 
 <!--imats-birthday-->
 
