@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=上条春菜&tbm=isch&oq=上条春菜&sclient=img>上条春菜</a></h2></li></ul><!--2026-04-10 22:01:45-->
+<ul><li><h2>04月11日誕生日の人おめでとう!</h2></li></ul><!--2026-04-11 00:48:50-->
 
 <!--imats-birthday-->
 
