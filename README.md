@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>04月13日誕生日の人おめでとう!</h2></li></ul><!--2026-04-13 22:18:14-->
+<ul><li><h2><a href=https://www.google.com/search?q=赤城みりあ&tbm=isch&oq=赤城みりあ&sclient=img>赤城みりあ</a></h2></li></ul><!--2026-04-14 01:08:30-->
 
 <!--imats-birthday-->
 
