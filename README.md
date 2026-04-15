@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=所恵美&tbm=isch&oq=所恵美&sclient=img>所恵美</a></h2></li><li><h2><a href=https://www.google.com/search?q=相葉夕美&tbm=isch&oq=相葉夕美&sclient=img>相葉夕美</a></h2></li></ul><!--2026-04-15 22:16:48-->
+<ul><li><h2>04月16日誕生日の人おめでとう!</h2></li></ul><!--2026-04-16 01:01:30-->
 
 <!--imats-birthday-->
 
