@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=御手洗翔太&tbm=isch&oq=御手洗翔太&sclient=img>御手洗翔太</a></h2></li></ul><!--2026-04-20 22:21:41-->
+<ul><li><h2>04月21日誕生日の人おめでとう!</h2></li></ul><!--2026-04-21 01:04:39-->
 
 <!--imats-birthday-->
 
