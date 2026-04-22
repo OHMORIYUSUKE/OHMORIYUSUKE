@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=橘志狼&tbm=isch&oq=橘志狼&sclient=img>橘志狼</a></h2></li></ul><!--2026-04-22 22:18:30-->
+<ul><li><h2>04月23日誕生日の人おめでとう!</h2></li></ul><!--2026-04-23 01:05:55-->
 
 <!--imats-birthday-->
 
