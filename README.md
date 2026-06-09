@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>06月09日誕生日の人おめでとう!</h2></li></ul><!--2026-06-09 23:49:47-->
+<ul><li><h2><a href=https://www.google.com/search?q=トレーナー&tbm=isch&oq=トレーナー&sclient=img>トレーナー</a></h2></li><li><h2><a href=https://www.google.com/search?q=池袋晶葉&tbm=isch&oq=池袋晶葉&sclient=img>池袋晶葉</a></h2></li></ul><!--2026-06-10 02:21:57-->
 
 <!--imats-birthday-->
 
