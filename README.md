@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=梅木音葉&tbm=isch&oq=梅木音葉&sclient=img>梅木音葉</a></h2></li></ul><!--2026-06-20 22:52:48-->
+<ul><li><h2>06月21日誕生日の人おめでとう!</h2></li></ul><!--2026-06-21 01:13:52-->
 
 <!--imats-birthday-->
 
