@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=仙崎恵磨&tbm=isch&oq=仙崎恵磨&sclient=img>仙崎恵磨</a></h2></li><li><h2><a href=https://www.google.com/search?q=白瀬咲耶&tbm=isch&oq=白瀬咲耶&sclient=img>白瀬咲耶</a></h2></li></ul><!--2026-06-27 15:26:48-->
+<ul><li><h2><a href=https://www.google.com/search?q=仙崎恵磨&tbm=isch&oq=仙崎恵磨&sclient=img>仙崎恵磨</a></h2></li><li><h2><a href=https://www.google.com/search?q=白瀬咲耶&tbm=isch&oq=白瀬咲耶&sclient=img>白瀬咲耶</a></h2></li></ul><!--2026-06-27 19:55:07-->
 
 <!--imats-birthday-->
 
