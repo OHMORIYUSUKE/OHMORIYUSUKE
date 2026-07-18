@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2>07月18日誕生日の人おめでとう!</h2></li></ul><!--2026-07-18 22:04:56-->
+<ul><li><h2><a href=https://www.google.com/search?q=三浦あずさ&tbm=isch&oq=三浦あずさ&sclient=img>三浦あずさ</a></h2></li></ul><!--2026-07-19 00:52:10-->
 
 <!--imats-birthday-->
 
