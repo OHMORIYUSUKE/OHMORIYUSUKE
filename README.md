@@ -6,7 +6,7 @@
 
 <!--imats-birthday-->
 
-<ul><li><h2><a href=https://www.google.com/search?q=葛城リーリヤ&tbm=isch&oq=葛城リーリヤ&sclient=img>葛城リーリヤ</a></h2></li></ul><!--2026-07-24 22:27:15-->
+<ul><li><h2><a href=https://www.google.com/search?q=高森藍子&tbm=isch&oq=高森藍子&sclient=img>高森藍子</a></h2></li></ul><!--2026-07-25 01:32:47-->
 
 <!--imats-birthday-->
 
