@@ -43,7 +43,7 @@ Go・Kotlin・PHP・TypeScript を用いた開発を中心に、CI/CD、テス�
 - [Findy「小さな勉強会は、教える・教わるの壁を越える」](https://findy-code.io/media/articles/my-output-story-uutan1108)
 - [マイナビ「ITには、いろんな仕事があるよ！」サーバーサイドエンジニア編](https://book.mynavi.jp/manatee/detail/id=143447)
 - 月刊I/O 2024年3月号・4月号「プログラミング＆実行できるWEBアプリを手作り」（[3月号](https://www.kohgakusha.co.jp/books/detail/4819)・[4月号](https://www.kohgakusha.co.jp/books/detail/4821)）
-- 月刊I/O 2025年1月号「冬休みにはじめる プログラミング」
+- [月刊I/O 2025年1月号「冬休みにはじめる プログラミング」](https://www.kohgakusha.co.jp/books/detail/4844)
 - BuriKaigi、PHPerKaigi、PHP Conference Japan、YAPC、Developers Summit、iOSDC Japan、JJUG CCC などで登壇
 - [電子情報通信学会北海道支部「学生優秀発表賞」](https://www.ieice.org/hokkaido/?page_id=189)を受賞
 
