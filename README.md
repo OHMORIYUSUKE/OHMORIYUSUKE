@@ -1,69 +1,52 @@
-# Hello! \:wave: こんにちは
+# 大森 裕介 / Yusuke Ohmori
 
 ![](https://count.getloli.com/get/@u-tan?theme=rule34)
 
-# \:cake: Happy Birthday \:smile:
+バックエンドエンジニアとして、Web API の設計・開発・運用に取り組んでいます。
 
-<!--imats-birthday-->
+現在はアクセンチュア株式会社に勤務しています。
 
-<ul><li><h2><a href=https://www.google.com/search?q=伊吹翼&tbm=isch&oq=伊吹翼&sclient=img>伊吹翼</a></h2></li><li><h2><a href=https://www.google.com/search?q=城ヶ崎莉嘉&tbm=isch&oq=城ヶ崎莉嘉&sclient=img>城ヶ崎莉嘉</a></h2></li></ul><!--2026-07-30 01:17:08-->
+Go・Kotlin・PHP・TypeScript を用いた開発を中心に、CI/CD、テスト自動化、技術発信、コミュニティ活動にも関心があります。
 
-<!--imats-birthday-->
+## About
 
-# \:rainbow: 今の画像
+- 2023年、公立千歳科学技術大学 理工学部 情報システム工学科を卒業
+- 2023年から株式会社ゆめみでサーバーサイドエンジニアとして勤務
+- 2025年12月からアクセンチュア株式会社に在籍
+- 技術カンファレンスでの登壇、商業誌・技術同人誌への寄稿、勉強会の企画・運営を継続
+- 学生・新卒エンジニアへのメンタリングやコードレビューにも従事
 
-![画像](./img/anim0000.png)
+## Skills
 
-ランダムに立方体を配置しているだけです。
+| Area | Technologies |
+| --- | --- |
+| Languages | Go, Kotlin, PHP, TypeScript, SQL, Shell Script |
+| Backend | NestJS, Spring Boot, FuelPHP, Laravel, Express |
+| Testing | Playwright, JUnit, MockK, Jest, PHPUnit |
+| Infrastructure / DevOps | AWS, Docker, Terraform, GitHub Actions |
+| Design / Development | OpenAPI, Database Design, Scrum, TDD, DDD |
 
-![](https://spotify-recently-played-readme.vercel.app/api?user=tfp7yh33kb9vwmokerox7ax0l&count=5&width=500)
+業務では、API・バッチ処理の設計と実装、データベース／スキーマ設計、運用保守、ログ分析、E2E テスト自動化、CI/CD パイプラインの改善などを経験しています。
 
-# \:chart_with_downwards_trend: Lapras Activity
+## Community
 
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/KJDZ8ZH" target="_blank" rel="noopener noreferrer"><img alt="KJDZ8ZHのLAPRASでのスコアは次の通りです: エンジニアリング: 4.09 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.81 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.09&b=3.48&i=3.81&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 7/29/2026, 2:53:44 AM</p>
-<!--END_SECTION:lapras-card-->
+技術コミュニティーの企画・運営や、カンファレンススタッフとしての活動を続けています。
 
-# \:chart_with_downwards_trend: Activity
+- **エンジニアニメ** — アニメをきっかけにエンジニア同士が交流する勉強会コミュニティーを企画・運営
+- **PHPカンファレンス関西** — コアスタッフとして制作物の手配、会場設営、当日運営を担当
+- **PHPカンファレンス北海道** — コアスタッフとしてノベルティ制作と当日運営を担当
+- **フロントエンドカンファレンス北海道** — コアスタッフとしてスポンサー対応、広報、ノベルティ手配、当日運営を担当
+- **大学技術サークル** — 代表としてコミュニティーを運営し、技術同人誌の共同執筆や[技術書典](https://techbookfest.org/product/6TSJb6UBKpzbkHNuFkZPGy)への出展を主導
 
-[![](https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/OHMORIYUSUKE/OHMORIYUSUKE/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## Writing & Speaking
 
-# \:green_book: Blog
+- [Findy「小さな勉強会は、教える・教わるの壁を越える」](https://findy-code.io/media/articles/my-output-story-uutan1108)
+- [マイナビ「ITには、いろんな仕事があるよ！」サーバーサイドエンジニア編](https://book.mynavi.jp/manatee/detail/id=143447)
+- 月刊I/O 2024年3月号・4月号「プログラミング＆実行できるWEBアプリを手作り」（[3月号](https://www.kohgakusha.co.jp/books/detail/4819)・[4月号](https://www.kohgakusha.co.jp/books/detail/4821)）
+- 月刊I/O 2025年1月号「冬休みにはじめる プログラミング」
+- BuriKaigi、PHPerKaigi、PHP Conference Japan、YAPC、Developers Summit、iOSDC Japan、JJUG CCC などで登壇
+- [電子情報通信学会北海道支部「学生優秀発表賞」](https://www.ieice.org/hokkaido/?page_id=189)を受賞
 
-<!-- BLOG-POST-LIST:START -->
-- [YAPC::Kyotoに参加しました](https://zenn.dev/u_tan/articles/c05fd67a6d8ea3)
-- [2022を振り返る](https://zenn.dev/u_tan/articles/a7ecd9767cc251)
-- [TypeScript でGoogle Apps Script&lpar;GAS&rpar;を書く](https://zenn.dev/u_tan/articles/c813e6f8255296)
-- [PythonでCLIツールを作ってみた](https://zenn.dev/u_tan/articles/dca8c4539b4e13)
-- [5dayガチャ開発インターンに参加しました](https://zenn.dev/u_tan/articles/8c04a33586f7e6)
-- [DockerでPerlの環境を作成する](https://zenn.dev/u_tan/articles/a270b1321a6ea2)
-- [ブラウザ上でコードを書いて実行&lpar;2&rpar;](https://zenn.dev/u_tan/articles/775af6ee0e9e77)
-- [就活振り返り](https://zenn.dev/u_tan/articles/bd72f3719329ab)
-<!-- BLOG-POST-LIST:END -->
+登壇資料と活動履歴は、以下のプロフィールにまとめています。
 
-# \:open_file_folder: 制作物
-
-## WEB
-
-<!--works-Web-->
-
-<table><tr><th><a href=https://github.com/OHMORIYUSUKE/play-langs><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/4c2328f057c74447a482791b435fe0db/%E7%84%A1%E9%A1%8C.png></a></th><th><a href=https://animes-library.netlify.app/><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/a305c5de4d9d41ebbaa5e0b19c7b4c54/%E7%84%A1%E9%A1%8C%20(5).png></a></th></tr><tr><td>Play Langs</td><td>Anime Library</td></tr></table><details><summary><b>もっと見る...</b></summary><table><tr><th><a href=https://github.com/OHMORIYUSUKE/KemonoFriend-LineBot><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/c295bc2c4667411c8edcfb87bd25b986/Screenshot_20210719-055222_LINE.jpg></a></th><th><a href=https://yours-tube.netlify.app/><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/4a406cc935e344c58527fc52cc9a1f77/youtubeapp.png></a></th></tr><tr><td>サーバルBOT</td><td>YouTubeもどき</td></tr><tr><th><a href=https://share.streamlit.io/ohmoriyusuke/trimming-opencv-streamlit/main.py><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/5d38c1e3a4c446bc925639bff53882bb/opencv.png></a></th><th><a href=https://nicotube.netlify.app/><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/5ef6013fe6854822b5f152910fcf2580/niconicoapp.png></a></th></tr><tr><td>顔認識トリミングアプリ</td><td>niconico動画もどき</td></tr><tr><th><a href=http://utan.php.xdomain.jp/blog/><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/d32889804f1f4eca8d87606426a083bb/1.png></a></th><th><a href=http://utan.php.xdomain.jp/animeapi/react/><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/185d3ecb0995455dbc753a6b5e389fbb/animeapiReact.png></a></th></tr><tr><td>自作ブログサイト(PHP)</td><td>アニメで振り返ろう</td></tr><tr><th><a href=https://portfolio-puce-beta.vercel.app><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/7257fc69060843018665dc21d5cee924/2.png></a></th><th><a href=https://share.streamlit.io/ohmoriyusuke/numberjudge_streamlit/main.py><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/c6fe0913d4904dbeb1add037c433a8de/number_judge.png></a></th></tr><tr><td>本ポートフォリオサイト</td><td>数字判定アプリ</td></tr><tr><th><a href=http://utan.php.xdomain.jp><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/2fcf9abddd6f4d81a9c420ddddd9eab4/portfolio.png></a></th><th><a href=https://ohmoriyusuke.github.io/sinnkeisuizyaku/><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/8fd84640e3034eb1b587e803558fa543/sinnkei.png></a></th></tr><tr><td>旧ポートフォリオサイト</td><td>神経衰弱</td></tr><tr><th><a href=https://ohmoriyusuke.github.io/nazonazo/><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/0ba99f1b7c3341ca99091125dc831fc6/nazonazo.png></a></th><th><a href=http://utan.html.xdomain.jp/portfolio-react/><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/83b192dcf9ca44ed9d68385fbc537a0b/reactPortfolio.png></a></th></tr><tr><td>なぞなぞゲーム</td><td>React ポートフォリオサイト</td></tr><tr><th><a href=https://script.google.com/macros/s/AKfycbyvAjqS_1QXEkxeIvZmsg7jfISeN0zHxx3_SqUrtrdDGooZ8cWA/exec#item-2><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/91b56a179e4c413a8c34ce834cb41baf/GAS.png></a></th><th><a href=https://react-tutorial-745ce.web.app/><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/2f8fcf17a0e84922837a3582aa29a72e/react.png></a></th></tr><tr><td>千歳市 今週のおすすめ飲食店</td><td>Cute Dog Images</td></tr><tr><th><a href=https://www.youtube.com/watch?v=lORBuu9vzmU><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/813cc8d0e32a41a0a0022d42f98da85d/PHP_hitokoto.png></a></th><th><a href=http://utan.php.xdomain.jp/lovelivedatabase/react/><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/fc7d5bfa4865445a8d34b02a90e950cb/loveliveapi.png></a></th></tr><tr><td>ひとこと掲示板</td><td>ラブライブライブラリ</td></tr></table></details>
-
-<!--works-Web-->
-
-## Blender
-
-<!--works-Blender-->
-
-<table><tr><th><a href=https://github.com/OHMORIYUSUKE/blender-rendering><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/aad97b32b9c04657a4304e77ba599a06/%E7%84%A1%E9%A1%8C.png></a></th><th><a href=https://www.youtube.com/watch?v=eErDw8c0jqs><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/490a1dd21b5e4e248f6b75f2b48f72d6/B-10.jpg></a></th></tr><tr><td>blender-rendering</td><td>回る鉛筆</td></tr></table><details><summary><b>もっと見る...</b></summary><table><tr><th><a href=https://www.youtube.com/watch?v=ZVnRFE259mE><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/0f12e534f952403db864bb1ce2cdd937/B-4.jpg></a></th><th><a href=https://www.youtube.com/watch?v=vg5-AqyFkJI><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/4ce71a26322d44e59559ce3a6fecb8e8/B-5.jpg></a></th></tr><tr><td>アイドル</td><td>おばけ</td></tr><tr><th><a href=https://www.youtube.com/watch?v=q1ZI4Eyx-8U><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/08f0f631e64c4a96949c0baa73ec008b/B-7.jpg></a></th><th><a href=https://www.youtube.com/watch?v=wfmFSgXmY3Y><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/4a5a9c8145b24e70aade1a343abbc447/B-6.jpg></a></th></tr><tr><td>積み木の汽車</td><td>洞窟探索</td></tr><tr><th><a href=https://www.youtube.com/watch?v=Nrx_qj47SY8><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/172315baeec74684b99e0e3284481212/B-19.jpg></a></th><th><a href=https://www.youtube.com/watch?v=7CINX7AiHhU><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/b3e474740221435890d94496c3032222/B-8.jpg></a></th></tr><tr><td>コーヒーカップ</td><td>宇宙</td></tr><tr><th><a href=https://www.youtube.com/watch?v=0XiMf7iatxI><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/26863c3b4bca4d4a96833b812f85839a/B-20.jpg></a></th><th><a href=http://utan.php.xdomain.jp/images/blender-png/B-12.png><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/1094dc4e93c040b3b5082496e99bbbea/B-12.png></a></th></tr><tr><td>カーテンと風</td><td>ドーナツ</td></tr><tr><th><a href=https://www.youtube.com/watch?v=kNs44YHbatg&feature=youtu.be><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/3e1effc757db4c698523ae9569895313/B-1.jpg></a></th><th><a href=https://www.youtube.com/watch?v=RxTdxMVuMyc><img src=https://images.microcms-assets.io/assets/440b9bbd003d40c49f24485329b6243b/fdd706526f07412d9e3e89256aa284b4/B-3.jpg></a></th></tr><tr><td>ネコ型ロボット</td><td>ちびロボ</td></tr></table></details>
-
-<!--works-Blender-->
-
-<!--works-GetDtataTime-->
-
-最終更新 : 2026-07-30 01:25:06
-
-<!--works-GetDtataTime-->
+[Speaker Deck](https://speakerdeck.com/ohmori_yusuke) · [own.page](https://own.page/uutan1108) · [LAPRAS](https://lapras.com/public/KJDZ8ZH) · [Zenn](https://zenn.dev/u_tan) · [note](https://note.com/uutan1108)
